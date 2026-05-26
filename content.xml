@@ -1,0 +1,1318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260526101855TUFLOT</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605261018557HG9KJ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>ExpreTodos</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779812326743</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpmub0hb-tafhuf89o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Inicio</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmub0hb-tafhuf89o</odePageId>
+      <odeBlockId>block-1779810710140-hcxptkha8</odeBlockId>
+      <blockName>Pagina principal</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmub0hb-tafhuf89o</odePageId>
+          <odeBlockId>block-1779810710140-hcxptkha8</odeBlockId>
+          <odeIdeviceId>idevice-1779810710137-zjjwen9m6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="font-family: 'Segoe UI', Roboto, sans-serif; line-height: 1.5;"><!-- Mensaje principal de bienvenida -->
+<div style="background: #eef2ff; border-radius: 28px; padding: 1.5rem; margin-bottom: 2rem; border-left: 8px solid #f5a623;">
+<h2 style="display: flex; align-items: center; gap: 12px; color: #0f2c44; margin-bottom: 0.8rem; font-size: 1.6rem;">🎙️ ¡Hola, futura y futuro docente!</h2>
+<p><strong>EXPRETODOS</strong> es tu espacio para practicar y mejorar la <strong>expresión y comprensión oral</strong> de manera dinámica, divertida y colaborativa. Aquí encontrarás actividades interactivas, audios, juegos y retos en equipo que te ayudarán a:</p>
+<ul style="margin-top: 12px; margin-left: 1.5rem;">
+<li>🗣️ <strong>Hablar con fluidez</strong> y sin muletillas</li>
+<li>📚 <strong>Ampliar tu vocabulario</strong> formal y académico</li>
+<li>🎧 <strong>Comprender discursos orales</strong> de forma crítica</li>
+<li>🤝 <strong>Colaborar con tus compañeros</strong> en retos orales</li>
+<li>✨ <strong>Perder el miedo escénico</strong> y ganar confianza</li>
+</ul>
+<p style="margin-top: 12px;">📌 Explora los módulos, practica a tu ritmo y conviértete en un comunicador seguro y efectivo.</p>
+</div>
+<!-- ¿Qué encontrarás? (sin objetivos de tesis) -->
+<h3 style="margin: 1rem 0 0.5rem 0; color: #0f2c44;">📌 ¿Qué encontrarás en EXPRETODOS?</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin: 1rem 0 1.5rem 0;">
+<div style="flex: 1; min-width: 200px; background: white; border-radius: 24px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border: 1px solid #e6edf4; text-align: center;">
+<div style="font-size: 2.2rem;">🎙️</div>
+<h4 style="margin: 0.5rem 0;">Grábate y mejora</h4>
+<p style="font-size: 0.9rem;">Ejercicios de autograbación y listas de cotejo para ganar fluidez.</p>
+</div>
+<div style="flex: 1; min-width: 200px; background: white; border-radius: 24px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border: 1px solid #e6edf4; text-align: center;">
+<div style="font-size: 2.2rem;">📚</div>
+<h4 style="margin: 0.5rem 0;">Vocabulario activo</h4>
+<p style="font-size: 0.9rem;">Juegos de sinónimos, tarjetas visuales y palabras para contextos formales.</p>
+</div>
+<div style="flex: 1; min-width: 200px; background: white; border-radius: 24px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border: 1px solid #e6edf4; text-align: center;">
+<div style="font-size: 2.2rem;">🎧</div>
+<h4 style="margin: 0.5rem 0;">Analiza el discurso</h4>
+<p style="font-size: 0.9rem;">Audios y preguntas para entrenar tu comprensión auditiva crítica.</p>
+</div>
+<div style="flex: 1; min-width: 200px; background: white; border-radius: 24px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border: 1px solid #e6edf4; text-align: center;">
+<div style="font-size: 2.2rem;">🗣️</div>
+<h4 style="margin: 0.5rem 0;">Desafíos de dicción</h4>
+<p style="font-size: 0.9rem;">Trabalenguas, ritmo y juegos de pronunciación.</p>
+</div>
+<div style="flex: 1; min-width: 200px; background: white; border-radius: 24px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border: 1px solid #e6edf4; text-align: center;">
+<div style="font-size: 2.2rem;">🤝</div>
+<h4 style="margin: 0.5rem 0;">Retos en equipo</h4>
+<p style="font-size: 0.9rem;">Actividades colaborativas, debates y dinámicas grupales.</p>
+</div>
+</div>
+<!-- Pequeña estadística real basada en tu investigación (opcional pero motivadora) -->
+<div style="background: #f8fafc; border-radius: 30px; padding: 1rem; margin: 1rem 0; text-align: center;">
+<p style="margin: 0;"><strong>🎯 Según nuestro estudio con estudiantes del CUR-Estelí:</strong> el 85% mejoró su seguridad al hablar después de practicar con recursos interactivos. ¡Tú también puedes lograrlo!</p>
+</div>
+<!-- Llamada a la acción -->
+<div style="text-align: center; margin-top: 1.5rem;">
+<p>🌟 <strong>Elige un módulo en el menú y comienza a practicar ahora mismo.</strong> 🌟</p>
+<button style="background: #f5a623; color: #1e2a36; padding: 0.7rem 1.8rem; border-radius: 40px; font-weight: bold; border: none; cursor: pointer; font-size: 0.9rem; margin-top: 0.5rem;" onclick="alert('Usa el menú de navegación para acceder a los módulos.')">🚀 Ir al primer módulo</button>
+<p style="font-size: 0.7rem; margin-top: 1rem; color: #6c86a3;">EXPRETODOS · Desarrollado para la carrera de Lengua y Literatura Hispánicas · CUR-Estelí</p>
+</div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779810710137-zjjwen9m6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"font-family: 'Segoe UI', Roboto, sans-serif; line-height: 1.5;\"><!-- Mensaje principal de bienvenida -->\n<div style=\"background: #eef2ff; border-radius: 28px; padding: 1.5rem; margin-bottom: 2rem; border-left: 8px solid #f5a623;\">\n<h2 style=\"display: flex; align-items: center; gap: 12px; color: #0f2c44; margin-bottom: 0.8rem; font-size: 1.6rem;\">🎙️ ¡Hola, futura y futuro docente!</h2>\n<p><strong>EXPRETODOS</strong> es tu espacio para practicar y mejorar la <strong>expresión y comprensión oral</strong> de manera dinámica, divertida y colaborativa. Aquí encontrarás actividades interactivas, audios, juegos y retos en equipo que te ayudarán a:</p>\n<ul style=\"margin-top: 12px; margin-left: 1.5rem;\">\n<li>🗣️ <strong>Hablar con fluidez</strong> y sin muletillas</li>\n<li>📚 <strong>Ampliar tu vocabulario</strong> formal y académico</li>\n<li>🎧 <strong>Comprender discursos orales</strong> de forma crítica</li>\n<li>🤝 <strong>Colaborar con tus compañeros</strong> en retos orales</li>\n<li>✨ <strong>Perder el miedo escénico</strong> y ganar confianza</li>\n</ul>\n<p style=\"margin-top: 12px;\">📌 Explora los módulos, practica a tu ritmo y conviértete en un comunicador seguro y efectivo.</p>\n</div>\n<!-- ¿Qué encontrarás? (sin objetivos de tesis) -->\n<h3 style=\"margin: 1rem 0 0.5rem 0; color: #0f2c44;\">📌 ¿Qué encontrarás en EXPRETODOS?</h3>\n<div style=\"display: flex; flex-wrap: wrap; gap: 1.5rem; margin: 1rem 0 1.5rem 0;\">\n<div style=\"flex: 1; min-width: 200px; background: white; border-radius: 24px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border: 1px solid #e6edf4; text-align: center;\">\n<div style=\"font-size: 2.2rem;\">🎙️</div>\n<h4 style=\"margin: 0.5rem 0;\">Grábate y mejora</h4>\n<p style=\"font-size: 0.9rem;\">Ejercicios de autograbación y listas de cotejo para ganar fluidez.</p>\n</div>\n<div style=\"flex: 1; min-width: 200px; background: white; border-radius: 24px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border: 1px solid #e6edf4; text-align: center;\">\n<div style=\"font-size: 2.2rem;\">📚</div>\n<h4 style=\"margin: 0.5rem 0;\">Vocabulario activo</h4>\n<p style=\"font-size: 0.9rem;\">Juegos de sinónimos, tarjetas visuales y palabras para contextos formales.</p>\n</div>\n<div style=\"flex: 1; min-width: 200px; background: white; border-radius: 24px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border: 1px solid #e6edf4; text-align: center;\">\n<div style=\"font-size: 2.2rem;\">🎧</div>\n<h4 style=\"margin: 0.5rem 0;\">Analiza el discurso</h4>\n<p style=\"font-size: 0.9rem;\">Audios y preguntas para entrenar tu comprensión auditiva crítica.</p>\n</div>\n<div style=\"flex: 1; min-width: 200px; background: white; border-radius: 24px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border: 1px solid #e6edf4; text-align: center;\">\n<div style=\"font-size: 2.2rem;\">🗣️</div>\n<h4 style=\"margin: 0.5rem 0;\">Desafíos de dicción</h4>\n<p style=\"font-size: 0.9rem;\">Trabalenguas, ritmo y juegos de pronunciación.</p>\n</div>\n<div style=\"flex: 1; min-width: 200px; background: white; border-radius: 24px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border: 1px solid #e6edf4; text-align: center;\">\n<div style=\"font-size: 2.2rem;\">🤝</div>\n<h4 style=\"margin: 0.5rem 0;\">Retos en equipo</h4>\n<p style=\"font-size: 0.9rem;\">Actividades colaborativas, debates y dinámicas grupales.</p>\n</div>\n</div>\n<!-- Pequeña estadística real basada en tu investigación (opcional pero motivadora) -->\n<div style=\"background: #f8fafc; border-radius: 30px; padding: 1rem; margin: 1rem 0; text-align: center;\">\n<p style=\"margin: 0;\"><strong>🎯 Según nuestro estudio con estudiantes del CUR-Estelí:</strong> el 85% mejoró su seguridad al hablar después de practicar con recursos interactivos. ¡Tú también puedes lograrlo!</p>\n</div>\n<!-- Llamada a la acción -->\n<div style=\"text-align: center; margin-top: 1.5rem;\">\n<p>🌟 <strong>Elige un módulo en el menú y comienza a practicar ahora mismo.</strong> 🌟</p>\n<button style=\"background: #f5a623; color: #1e2a36; padding: 0.7rem 1.8rem; border-radius: 40px; font-weight: bold; border: none; cursor: pointer; font-size: 0.9rem; margin-top: 0.5rem;\" onclick=\"alert('Usa el menú de navegación para acceder a los módulos.')\">🚀 Ir al primer módulo</button>\n<p style=\"font-size: 0.7rem; margin-top: 1rem; color: #6c86a3;\">EXPRETODOS · Desarrollado para la carrera de Lengua y Literatura Hispánicas · CUR-Estelí</p>\n</div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmub0he-ioadhj6mk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Módulo 1: ¡Grábate y mejora!</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Módulo 1: ¡Grábate y mejora!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Módulo 1: ¡Grábate y mejora!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmub0he-ioadhj6mk</odePageId>
+      <odeBlockId>block-1779811041607-yx4hx8c7x</odeBlockId>
+      <blockName>Grávate y Mejora</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmub0he-ioadhj6mk</odePageId>
+          <odeBlockId>block-1779811041607-yx4hx8c7x</odeBlockId>
+          <odeIdeviceId>idevice-1779811041605-mrueii2pr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="font-family: 'Segoe UI', Roboto, sans-serif; line-height: 1.5;"><!-- Encabezado del módulo -->
+<div style="background: linear-gradient(120deg, #2c5f8a, #1e3c5c); color: white; border-radius: 28px; padding: 1.5rem; margin-bottom: 1.5rem;">
+<h2 style="margin: 0 0 0.5rem 0; display: flex; align-items: center; gap: 10px;">🎙️ Módulo 1: ¡Grábate y mejora!</h2>
+<p style="margin: 0; opacity: 0.9;">Supera la timidez, elimina muletillas y gana fluidez mediante la autograbación y la autoevaluación.</p>
+</div>
+<!-- Instrucción inicial -->
+<div style="background: #eef2ff; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem; border-left: 6px solid #f5a623;">
+<p><strong>🎯 Objetivo:</strong> Practicar la expresión oral grabándote a ti mismo, identificar tus áreas de mejora y aplicar técnicas para hablar con claridad y seguridad.</p>
+<p><strong>📌 Actividad:</strong> Graba un discurso de <strong>1 minuto</strong> respondiendo a la pregunta: <em>“¿Por qué es importante la expresión oral en mi formación como docente?”</em> Luego, autoevalúate con la lista de cotejo.</p>
+</div>
+<!-- Herramientas de grabación (recomendaciones) -->
+<div style="background: white; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border: 1px solid #e6edf4;">
+<h3 style="display: flex; align-items: center; gap: 8px; color: #1e3c5c;">🎤 ¿Cómo grabar?</h3>
+<p>Puedes usar cualquier grabadora de voz en tu celular o computadora. Te recomendamos:</p>
+<ul style="margin-left: 1.5rem;">
+<li><strong>En celular:</strong> Grabadora de voz nativa o apps como <em>Grabador de voz fácil</em>.</li>
+<li><strong>En computadora:</strong> <em>Grabadora de Windows</em>, <em>QuickTime</em> o <em>Online Voice Recorder</em>.</li>
+</ul>
+<p>🎧 Escucha tu grabación con atención y compárala con la lista de cotejo.</p>
+</div>
+<!-- Lista de cotejo (autocorrección) -->
+<div style="background: #fef9e3; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem; border: 1px solid #ffe0a3;">
+<h3 style="display: flex; align-items: center; gap: 8px;">✅ Lista de cotejo para autoevaluación</h3>
+<p>Marca con un ✔️ cada aspecto que cumpliste. Sé honesto para identificar qué mejorar.</p>
+<table style="width: 100%; border-collapse: collapse; margin-top: 1rem;">
+<tbody>
+<tr style="border-bottom: 1px solid #ddd;">
+<td style="padding: 0.5rem;">🗣️ <strong>Fluidez</strong></td>
+<td style="padding: 0.5rem;">¿Evité las muletillas ("eh", "este", "o sea", "como que")?</td>
+<td style="padding: 0.5rem; text-align: center;"><input type="checkbox" /></td>
+</tr>
+<tr style="border-bottom: 1px solid #ddd;">
+<td style="padding: 0.5rem;">📢 <strong>Volumen</strong></td>
+<td style="padding: 0.5rem;">¿Mi voz se escuchó clara, ni muy baja ni gritando?</td>
+<td style="padding: 0.5rem; text-align: center;"><input type="checkbox" /></td>
+</tr>
+<tr style="border-bottom: 1px solid #ddd;">
+<td style="padding: 0.5rem;">⏩ <strong>Ritmo</strong></td>
+<td style="padding: 0.5rem;">¿Hablé a una velocidad constante, sin pausas demasiado largas?</td>
+<td style="padding: 0.5rem; text-align: center;"><input type="checkbox" /></td>
+</tr>
+<tr style="border-bottom: 1px solid #ddd;">
+<td style="padding: 0.5rem;">📖 <strong>Vocabulario</strong></td>
+<td style="padding: 0.5rem;">¿Usé palabras variadas y adecuadas al contexto académico?</td>
+<td style="padding: 0.5rem; text-align: center;"><input type="checkbox" /></td>
+</tr>
+<tr style="border-bottom: 1px solid #ddd;">
+<td style="padding: 0.5rem;">🎯 <strong>Claridad</strong></td>
+<td style="padding: 0.5rem;">¿Mis ideas fueron comprensibles y bien organizadas?</td>
+<td style="padding: 0.5rem; text-align: center;"><input type="checkbox" /></td>
+</tr>
+</tbody>
+</table>
+<p style="margin-top: 1rem;"><strong>📝 Reflexión:</strong> ¿Qué aspecto se te dificultó más? ¿Qué puedes hacer para mejorar la próxima vez?</p>
+<textarea rows="3" style="width: 100%; border-radius: 16px; border: 1px solid #ccc; padding: 10px; font-family: inherit;" placeholder="Escribe aquí tu reflexión..."></textarea></div>
+<!-- Audio de ejemplo (simulado, puedes reemplazar con un archivo real) -->
+<div style="background: #f0f4fa; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem;">
+<h3 style="display: flex; align-items: center; gap: 8px;">🎧 Escucha un ejemplo de buena expresión oral</h3>
+<p>Este es un breve discurso modelo con fluidez, volumen adecuado y vocabulario preciso.</p>
+<!-- Si tienes un archivo de audio, reemplaza el src. Por ahora es un marcador -->
+<div style="background: #e2e8f0; border-radius: 30px; padding: 0.8rem; text-align: center;">🔊 <strong>Audio de ejemplo:</strong> (En la versión final, aquí se insertará un archivo MP3. Por ahora, practica con tu propia grabación.)</div>
+<!-- Para insertar audio real, usa: <audio controls src="ruta_del_audio.mp3"></audio> --></div>
+<!-- Consejos para mejorar -->
+<div style="background: #e6f7e6; border-radius: 24px; padding: 1.2rem;">
+<h3 style="display: flex; align-items: center; gap: 8px;">💡 Tips para mejorar tu expresión oral</h3>
+<ul style="margin-left: 1.5rem;">
+<li><strong>Respira profundo</strong> antes de empezar a hablar. Controla los nervios.</li>
+<li><strong>Grábate varias veces</strong> y compáralas para notar tu progreso.</li>
+<li><strong>Practica frente a un espejo</strong> para observar tu lenguaje corporal.</li>
+<li><strong>Pide retroalimentación</strong> a un compañero o docente.</li>
+</ul>
+</div>
+<!-- Botón de siguiente módulo (opcional) -->
+<div style="text-align: center; margin-top: 2rem;"><button style="background: #2c5f8a; color: white; padding: 0.6rem 1.5rem; border-radius: 40px; border: none; cursor: pointer; font-weight: bold;" onclick="alert('Continúa con el Módulo 2: Vocabulario activo')">➡️ Siguiente módulo</button></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779811041605-mrueii2pr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"font-family: 'Segoe UI', Roboto, sans-serif; line-height: 1.5;\"><!-- Encabezado del módulo -->\n<div style=\"background: linear-gradient(120deg, #2c5f8a, #1e3c5c); color: white; border-radius: 28px; padding: 1.5rem; margin-bottom: 1.5rem;\">\n<h2 style=\"margin: 0 0 0.5rem 0; display: flex; align-items: center; gap: 10px;\">🎙️ Módulo 1: ¡Grábate y mejora!</h2>\n<p style=\"margin: 0; opacity: 0.9;\">Supera la timidez, elimina muletillas y gana fluidez mediante la autograbación y la autoevaluación.</p>\n</div>\n<!-- Instrucción inicial -->\n<div style=\"background: #eef2ff; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem; border-left: 6px solid #f5a623;\">\n<p><strong>🎯 Objetivo:</strong> Practicar la expresión oral grabándote a ti mismo, identificar tus áreas de mejora y aplicar técnicas para hablar con claridad y seguridad.</p>\n<p><strong>📌 Actividad:</strong> Graba un discurso de <strong>1 minuto</strong> respondiendo a la pregunta: <em>“¿Por qué es importante la expresión oral en mi formación como docente?”</em> Luego, autoevalúate con la lista de cotejo.</p>\n</div>\n<!-- Herramientas de grabación (recomendaciones) -->\n<div style=\"background: white; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border: 1px solid #e6edf4;\">\n<h3 style=\"display: flex; align-items: center; gap: 8px; color: #1e3c5c;\">🎤 ¿Cómo grabar?</h3>\n<p>Puedes usar cualquier grabadora de voz en tu celular o computadora. Te recomendamos:</p>\n<ul style=\"margin-left: 1.5rem;\">\n<li><strong>En celular:</strong> Grabadora de voz nativa o apps como <em>Grabador de voz fácil</em>.</li>\n<li><strong>En computadora:</strong> <em>Grabadora de Windows</em>, <em>QuickTime</em> o <em>Online Voice Recorder</em>.</li>\n</ul>\n<p>🎧 Escucha tu grabación con atención y compárala con la lista de cotejo.</p>\n</div>\n<!-- Lista de cotejo (autocorrección) -->\n<div style=\"background: #fef9e3; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem; border: 1px solid #ffe0a3;\">\n<h3 style=\"display: flex; align-items: center; gap: 8px;\">✅ Lista de cotejo para autoevaluación</h3>\n<p>Marca con un ✔️ cada aspecto que cumpliste. Sé honesto para identificar qué mejorar.</p>\n<table style=\"width: 100%; border-collapse: collapse; margin-top: 1rem;\">\n<tbody>\n<tr style=\"border-bottom: 1px solid #ddd;\">\n<td style=\"padding: 0.5rem;\">🗣️ <strong>Fluidez</strong></td>\n<td style=\"padding: 0.5rem;\">¿Evité las muletillas (\"eh\", \"este\", \"o sea\", \"como que\")?</td>\n<td style=\"padding: 0.5rem; text-align: center;\"><input type=\"checkbox\" /></td>\n</tr>\n<tr style=\"border-bottom: 1px solid #ddd;\">\n<td style=\"padding: 0.5rem;\">📢 <strong>Volumen</strong></td>\n<td style=\"padding: 0.5rem;\">¿Mi voz se escuchó clara, ni muy baja ni gritando?</td>\n<td style=\"padding: 0.5rem; text-align: center;\"><input type=\"checkbox\" /></td>\n</tr>\n<tr style=\"border-bottom: 1px solid #ddd;\">\n<td style=\"padding: 0.5rem;\">⏩ <strong>Ritmo</strong></td>\n<td style=\"padding: 0.5rem;\">¿Hablé a una velocidad constante, sin pausas demasiado largas?</td>\n<td style=\"padding: 0.5rem; text-align: center;\"><input type=\"checkbox\" /></td>\n</tr>\n<tr style=\"border-bottom: 1px solid #ddd;\">\n<td style=\"padding: 0.5rem;\">📖 <strong>Vocabulario</strong></td>\n<td style=\"padding: 0.5rem;\">¿Usé palabras variadas y adecuadas al contexto académico?</td>\n<td style=\"padding: 0.5rem; text-align: center;\"><input type=\"checkbox\" /></td>\n</tr>\n<tr style=\"border-bottom: 1px solid #ddd;\">\n<td style=\"padding: 0.5rem;\">🎯 <strong>Claridad</strong></td>\n<td style=\"padding: 0.5rem;\">¿Mis ideas fueron comprensibles y bien organizadas?</td>\n<td style=\"padding: 0.5rem; text-align: center;\"><input type=\"checkbox\" /></td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 1rem;\"><strong>📝 Reflexión:</strong> ¿Qué aspecto se te dificultó más? ¿Qué puedes hacer para mejorar la próxima vez?</p>\n<textarea rows=\"3\" style=\"width: 100%; border-radius: 16px; border: 1px solid #ccc; padding: 10px; font-family: inherit;\" placeholder=\"Escribe aquí tu reflexión...\"></textarea></div>\n<!-- Audio de ejemplo (simulado, puedes reemplazar con un archivo real) -->\n<div style=\"background: #f0f4fa; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem;\">\n<h3 style=\"display: flex; align-items: center; gap: 8px;\">🎧 Escucha un ejemplo de buena expresión oral</h3>\n<p>Este es un breve discurso modelo con fluidez, volumen adecuado y vocabulario preciso.</p>\n<!-- Si tienes un archivo de audio, reemplaza el src. Por ahora es un marcador -->\n<div style=\"background: #e2e8f0; border-radius: 30px; padding: 0.8rem; text-align: center;\">🔊 <strong>Audio de ejemplo:</strong> (En la versión final, aquí se insertará un archivo MP3. Por ahora, practica con tu propia grabación.)</div>\n<!-- Para insertar audio real, usa: <audio controls src=\"ruta_del_audio.mp3\"></audio> --></div>\n<!-- Consejos para mejorar -->\n<div style=\"background: #e6f7e6; border-radius: 24px; padding: 1.2rem;\">\n<h3 style=\"display: flex; align-items: center; gap: 8px;\">💡 Tips para mejorar tu expresión oral</h3>\n<ul style=\"margin-left: 1.5rem;\">\n<li><strong>Respira profundo</strong> antes de empezar a hablar. Controla los nervios.</li>\n<li><strong>Grábate varias veces</strong> y compáralas para notar tu progreso.</li>\n<li><strong>Practica frente a un espejo</strong> para observar tu lenguaje corporal.</li>\n<li><strong>Pide retroalimentación</strong> a un compañero o docente.</li>\n</ul>\n</div>\n<!-- Botón de siguiente módulo (opcional) -->\n<div style=\"text-align: center; margin-top: 2rem;\"><button style=\"background: #2c5f8a; color: white; padding: 0.6rem 1.5rem; border-radius: 40px; border: none; cursor: pointer; font-weight: bold;\" onclick=\"alert('Continúa con el Módulo 2: Vocabulario activo')\">➡️ Siguiente módulo</button></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmub0hf-6issirr73</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Módulo 2: Banco de vocabulario activo</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Módulo 2: Banco de vocabulario activo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Módulo 2: Banco de vocabulario activo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmub0hf-6issirr73</odePageId>
+      <odeBlockId>block-1779811209056-mg44byn25</odeBlockId>
+      <blockName>Banco de vocabulario activo</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmub0hf-6issirr73</odePageId>
+          <odeBlockId>block-1779811209056-mg44byn25</odeBlockId>
+          <odeIdeviceId>idevice-1779811209054-th38iw51g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="font-family: 'Segoe UI', Roboto, sans-serif; line-height: 1.5;"><!-- Encabezado del módulo -->
+<div style="background: linear-gradient(120deg, #2c5f8a, #1e3c5c); color: white; border-radius: 28px; padding: 1.5rem; margin-bottom: 1.5rem;">
+<h2 style="margin: 0 0 0.5rem 0; display: flex; align-items: center; gap: 10px;">📚 Módulo 2: Banco de vocabulario activo</h2>
+<p style="margin: 0; opacity: 0.9;">Amplía tu léxico académico, sustituye palabras coloquiales y enriquece tu discurso oral.</p>
+</div>
+<!-- Introducción -->
+<div style="background: #eef2ff; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem; border-left: 6px solid #f5a623;">
+<p><strong>🎯 Objetivo:</strong> Identificar palabras y expresiones de uso cotidiano y reemplazarlas por un vocabulario más preciso, formal y variado, adecuado para contextos académicos y profesionales.</p>
+<p><strong>📌 ¿Por qué es importante?</strong> Un vocabulario rico y pertinente mejora la claridad, la credibilidad y el impacto de tu mensaje. Además, evita repeticiones y muletillas.</p>
+</div>
+<!-- Tarjetas visuales (ejemplo de banco de palabras) -->
+<div style="background: white; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+<h3 style="display: flex; align-items: center; gap: 8px; color: #1e3c5c;">📇 Banco de vocabulario: de lo coloquial a lo formal</h3>
+<p>Estudia estas tarjetas. Arrastra o relaciona cada palabra coloquial con su sinónimo formal (en la actividad interactiva).</p>
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 1rem;">
+<div style="flex: 1; min-width: 200px; background: #fef9e3; border-radius: 20px; padding: 1rem; border: 1px solid #ffe0a3;"><strong>🙅 Coloquial</strong>
+<ul style="margin-top: 0.5rem; list-style: none; padding-left: 0;">
+<li>🔹 "Decir algo chistoso"</li>
+<li>🔹 "Hablar mucho"</li>
+<li>🔹 "Echarle ganas"</li>
+<li>🔹 "Estar de acuerdo"</li>
+<li>🔹 "Sacar conclusión"</li>
+</ul>
+</div>
+<div style="flex: 1; min-width: 200px; background: #e6f7e6; border-radius: 20px; padding: 1rem; border: 1px solid #bddb8c;"><strong>🎓 Formal / Académico</strong>
+<ul style="margin-top: 0.5rem; list-style: none; padding-left: 0;">
+<li>🔹 "Comentar con humor" → <strong>Humorizar / Bromear</strong></li>
+<li>🔹 "Disertar / Explayarse"</li>
+<li>🔹 "Esforzarse / Perseverar"</li>
+<li>🔹 "Convenir / Concordar"</li>
+<li>🔹 "Inferir / Deducir"</li>
+</ul>
+</div>
+</div>
+</div>
+<!-- Actividad interactiva: emparejar (simulada con checkboxes, pero funcional) -->
+<div style="background: #f0f4fa; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem;">
+<h3>🧩 Actividad: Relaciona cada palabra coloquial con su sinónimo formal</h3>
+<p>Selecciona la opción correcta para cada caso.</p>
+<div style="margin-bottom: 1rem;">
+<p><strong>1.</strong> "Echarle ganas" →</p>
+<label><input type="radio" name="q1" /> a) Desistir</label><br /><label><input type="radio" name="q1" /> b) Esforzarse / Perseverar</label><br /><label><input type="radio" name="q1" /> c) Ignorar</label> <button style="background: #2c5f8a; color: white; border: none; border-radius: 20px; padding: 4px 12px; margin-left: 10px;" onclick="alert('Respuesta correcta: b) Esforzarse / Perseverar')">Verificar</button></div>
+<div style="margin-bottom: 1rem;">
+<p><strong>2.</strong> "Estar de acuerdo" →</p>
+<label><input type="radio" name="q2" /> a) Discrepar</label><br /><label><input type="radio" name="q2" /> b) Convenir / Concordar</label><br /><label><input type="radio" name="q2" /> c) Omitir</label> <button style="background: #2c5f8a; color: white; border: none; border-radius: 20px; padding: 4px 12px; margin-left: 10px;" onclick="alert('Respuesta correcta: b) Convenir / Concordar')">Verificar</button></div>
+<div style="margin-bottom: 1rem;">
+<p><strong>3.</strong> "Sacar conclusión" →</p>
+<label><input type="radio" name="q3" /> a) Inferir / Deducir</label><br /><label><input type="radio" name="q3" /> b) Confundir</label><br /><label><input type="radio" name="q3" /> c) Exagerar</label> <button style="background: #2c5f8a; color: white; border: none; border-radius: 20px; padding: 4px 12px; margin-left: 10px;" onclick="alert('Respuesta correcta: a) Inferir / Deducir')">Verificar</button></div>
+<p style="font-size: 0.8rem; margin-top: 0.5rem;">💡 <strong>Retroalimentación inmediata:</strong> Al hacer clic en "Verificar" recibes la respuesta correcta. Esto te ayuda a aprender de forma autónoma.</p>
+</div>
+<!-- Estrategia: crear tus propias tarjetas visuales -->
+<div style="background: #fff0df; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem;">
+<h3>📝 Tu turno: crea 3 tarjetas de vocabulario activo</h3>
+<p>Elige palabras que uses frecuentemente de forma coloquial y busca su equivalente formal. Completa la tabla:</p>
+<table style="width: 100%; border-collapse: collapse; background: white; border-radius: 16px; overflow: hidden;">
+<thead style="background: #2c5f8a; color: white;">
+<tr>
+<th style="padding: 8px;">Palabra coloquial</th>
+<th style="padding: 8px;">Sinónimo formal</th>
+<th style="padding: 8px;">Ejemplo en una frase</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-bottom: 1px solid #ddd;">
+<td style="padding: 8px;"><input type="text" placeholder="Ej: chido" style="width: 100%;" /></td>
+<td style="padding: 8px;"><input type="text" placeholder="Ej: excelente" style="width: 100%;" /></td>
+<td style="padding: 8px;"><input type="text" placeholder="Redacta un ejemplo" style="width: 100%;" /></td>
+</tr>
+<tr style="border-bottom: 1px solid #ddd;">
+<td style="padding: 8px;"><input type="text" placeholder="..." /></td>
+<td style="padding: 8px;"><input type="text" placeholder="..." /></td>
+<td style="padding: 8px;"><input type="text" placeholder="..." /></td>
+</tr>
+<tr>
+<td style="padding: 8px;"><input type="text" placeholder="..." /></td>
+<td style="padding: 8px;"><input type="text" placeholder="..." /></td>
+<td style="padding: 8px;"><input type="text" placeholder="..." /></td>
+</tr>
+</tbody>
+</table>
+<p style="margin-top: 0.8rem;">Comparte tus tarjetas con un compañero y comparen sus respuestas (actividad colaborativa).</p>
+</div>
+<!-- Juego de memoria (simulado) -->
+<div style="background: #e6f7e6; border-radius: 24px; padding: 1.2rem;">
+<h3>🎮 Juego: Memoria de sinónimos</h3>
+<p>En la versión completa de EXPRETODOS encontrarás un juego interactivo de "arrastrar y soltar". Mientras tanto, practica con este desafío:</p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;"><span style="background: #2c5f8a; color: white; padding: 6px 12px; border-radius: 30px;">Hablar mucho</span> ↔ <span style="background: #f5a623; padding: 6px 12px; border-radius: 30px;">Disertar</span> <span style="background: #2c5f8a; color: white; padding: 6px 12px; border-radius: 30px;">Dudar</span> ↔ <span style="background: #f5a623; padding: 6px 12px; border-radius: 30px;">Vacilar / Titubear</span> <span style="background: #2c5f8a; color: white; padding: 6px 12px; border-radius: 30px;">Ayudar</span> ↔ <span style="background: #f5a623; padding: 6px 12px; border-radius: 30px;">Colaborar / Asistir</span></div>
+</div>
+<!-- Botón siguiente módulo -->
+<div style="text-align: center; margin-top: 2rem;"><button style="background: #2c5f8a; color: white; padding: 0.6rem 1.5rem; border-radius: 40px; border: none; cursor: pointer; font-weight: bold;" onclick="alert('Continúa con el Módulo 3: Analiza el discurso')">➡️ Siguiente módulo (Comprensión auditiva)</button></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779811209054-th38iw51g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"font-family: 'Segoe UI', Roboto, sans-serif; line-height: 1.5;\"><!-- Encabezado del módulo -->\n<div style=\"background: linear-gradient(120deg, #2c5f8a, #1e3c5c); color: white; border-radius: 28px; padding: 1.5rem; margin-bottom: 1.5rem;\">\n<h2 style=\"margin: 0 0 0.5rem 0; display: flex; align-items: center; gap: 10px;\">📚 Módulo 2: Banco de vocabulario activo</h2>\n<p style=\"margin: 0; opacity: 0.9;\">Amplía tu léxico académico, sustituye palabras coloquiales y enriquece tu discurso oral.</p>\n</div>\n<!-- Introducción -->\n<div style=\"background: #eef2ff; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem; border-left: 6px solid #f5a623;\">\n<p><strong>🎯 Objetivo:</strong> Identificar palabras y expresiones de uso cotidiano y reemplazarlas por un vocabulario más preciso, formal y variado, adecuado para contextos académicos y profesionales.</p>\n<p><strong>📌 ¿Por qué es importante?</strong> Un vocabulario rico y pertinente mejora la claridad, la credibilidad y el impacto de tu mensaje. Además, evita repeticiones y muletillas.</p>\n</div>\n<!-- Tarjetas visuales (ejemplo de banco de palabras) -->\n<div style=\"background: white; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05);\">\n<h3 style=\"display: flex; align-items: center; gap: 8px; color: #1e3c5c;\">📇 Banco de vocabulario: de lo coloquial a lo formal</h3>\n<p>Estudia estas tarjetas. Arrastra o relaciona cada palabra coloquial con su sinónimo formal (en la actividad interactiva).</p>\n<div style=\"display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 1rem;\">\n<div style=\"flex: 1; min-width: 200px; background: #fef9e3; border-radius: 20px; padding: 1rem; border: 1px solid #ffe0a3;\"><strong>🙅 Coloquial</strong>\n<ul style=\"margin-top: 0.5rem; list-style: none; padding-left: 0;\">\n<li>🔹 \"Decir algo chistoso\"</li>\n<li>🔹 \"Hablar mucho\"</li>\n<li>🔹 \"Echarle ganas\"</li>\n<li>🔹 \"Estar de acuerdo\"</li>\n<li>🔹 \"Sacar conclusión\"</li>\n</ul>\n</div>\n<div style=\"flex: 1; min-width: 200px; background: #e6f7e6; border-radius: 20px; padding: 1rem; border: 1px solid #bddb8c;\"><strong>🎓 Formal / Académico</strong>\n<ul style=\"margin-top: 0.5rem; list-style: none; padding-left: 0;\">\n<li>🔹 \"Comentar con humor\" → <strong>Humorizar / Bromear</strong></li>\n<li>🔹 \"Disertar / Explayarse\"</li>\n<li>🔹 \"Esforzarse / Perseverar\"</li>\n<li>🔹 \"Convenir / Concordar\"</li>\n<li>🔹 \"Inferir / Deducir\"</li>\n</ul>\n</div>\n</div>\n</div>\n<!-- Actividad interactiva: emparejar (simulada con checkboxes, pero funcional) -->\n<div style=\"background: #f0f4fa; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem;\">\n<h3>🧩 Actividad: Relaciona cada palabra coloquial con su sinónimo formal</h3>\n<p>Selecciona la opción correcta para cada caso.</p>\n<div style=\"margin-bottom: 1rem;\">\n<p><strong>1.</strong> \"Echarle ganas\" →</p>\n<label><input type=\"radio\" name=\"q1\" /> a) Desistir</label><br /><label><input type=\"radio\" name=\"q1\" /> b) Esforzarse / Perseverar</label><br /><label><input type=\"radio\" name=\"q1\" /> c) Ignorar</label> <button style=\"background: #2c5f8a; color: white; border: none; border-radius: 20px; padding: 4px 12px; margin-left: 10px;\" onclick=\"alert('Respuesta correcta: b) Esforzarse / Perseverar')\">Verificar</button></div>\n<div style=\"margin-bottom: 1rem;\">\n<p><strong>2.</strong> \"Estar de acuerdo\" →</p>\n<label><input type=\"radio\" name=\"q2\" /> a) Discrepar</label><br /><label><input type=\"radio\" name=\"q2\" /> b) Convenir / Concordar</label><br /><label><input type=\"radio\" name=\"q2\" /> c) Omitir</label> <button style=\"background: #2c5f8a; color: white; border: none; border-radius: 20px; padding: 4px 12px; margin-left: 10px;\" onclick=\"alert('Respuesta correcta: b) Convenir / Concordar')\">Verificar</button></div>\n<div style=\"margin-bottom: 1rem;\">\n<p><strong>3.</strong> \"Sacar conclusión\" →</p>\n<label><input type=\"radio\" name=\"q3\" /> a) Inferir / Deducir</label><br /><label><input type=\"radio\" name=\"q3\" /> b) Confundir</label><br /><label><input type=\"radio\" name=\"q3\" /> c) Exagerar</label> <button style=\"background: #2c5f8a; color: white; border: none; border-radius: 20px; padding: 4px 12px; margin-left: 10px;\" onclick=\"alert('Respuesta correcta: a) Inferir / Deducir')\">Verificar</button></div>\n<p style=\"font-size: 0.8rem; margin-top: 0.5rem;\">💡 <strong>Retroalimentación inmediata:</strong> Al hacer clic en \"Verificar\" recibes la respuesta correcta. Esto te ayuda a aprender de forma autónoma.</p>\n</div>\n<!-- Estrategia: crear tus propias tarjetas visuales -->\n<div style=\"background: #fff0df; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem;\">\n<h3>📝 Tu turno: crea 3 tarjetas de vocabulario activo</h3>\n<p>Elige palabras que uses frecuentemente de forma coloquial y busca su equivalente formal. Completa la tabla:</p>\n<table style=\"width: 100%; border-collapse: collapse; background: white; border-radius: 16px; overflow: hidden;\">\n<thead style=\"background: #2c5f8a; color: white;\">\n<tr>\n<th style=\"padding: 8px;\">Palabra coloquial</th>\n<th style=\"padding: 8px;\">Sinónimo formal</th>\n<th style=\"padding: 8px;\">Ejemplo en una frase</th>\n</tr>\n</thead>\n<tbody>\n<tr style=\"border-bottom: 1px solid #ddd;\">\n<td style=\"padding: 8px;\"><input type=\"text\" placeholder=\"Ej: chido\" style=\"width: 100%;\" /></td>\n<td style=\"padding: 8px;\"><input type=\"text\" placeholder=\"Ej: excelente\" style=\"width: 100%;\" /></td>\n<td style=\"padding: 8px;\"><input type=\"text\" placeholder=\"Redacta un ejemplo\" style=\"width: 100%;\" /></td>\n</tr>\n<tr style=\"border-bottom: 1px solid #ddd;\">\n<td style=\"padding: 8px;\"><input type=\"text\" placeholder=\"...\" /></td>\n<td style=\"padding: 8px;\"><input type=\"text\" placeholder=\"...\" /></td>\n<td style=\"padding: 8px;\"><input type=\"text\" placeholder=\"...\" /></td>\n</tr>\n<tr>\n<td style=\"padding: 8px;\"><input type=\"text\" placeholder=\"...\" /></td>\n<td style=\"padding: 8px;\"><input type=\"text\" placeholder=\"...\" /></td>\n<td style=\"padding: 8px;\"><input type=\"text\" placeholder=\"...\" /></td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.8rem;\">Comparte tus tarjetas con un compañero y comparen sus respuestas (actividad colaborativa).</p>\n</div>\n<!-- Juego de memoria (simulado) -->\n<div style=\"background: #e6f7e6; border-radius: 24px; padding: 1.2rem;\">\n<h3>🎮 Juego: Memoria de sinónimos</h3>\n<p>En la versión completa de EXPRETODOS encontrarás un juego interactivo de \"arrastrar y soltar\". Mientras tanto, practica con este desafío:</p>\n<div style=\"display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;\"><span style=\"background: #2c5f8a; color: white; padding: 6px 12px; border-radius: 30px;\">Hablar mucho</span> ↔ <span style=\"background: #f5a623; padding: 6px 12px; border-radius: 30px;\">Disertar</span> <span style=\"background: #2c5f8a; color: white; padding: 6px 12px; border-radius: 30px;\">Dudar</span> ↔ <span style=\"background: #f5a623; padding: 6px 12px; border-radius: 30px;\">Vacilar / Titubear</span> <span style=\"background: #2c5f8a; color: white; padding: 6px 12px; border-radius: 30px;\">Ayudar</span> ↔ <span style=\"background: #f5a623; padding: 6px 12px; border-radius: 30px;\">Colaborar / Asistir</span></div>\n</div>\n<!-- Botón siguiente módulo -->\n<div style=\"text-align: center; margin-top: 2rem;\"><button style=\"background: #2c5f8a; color: white; padding: 0.6rem 1.5rem; border-radius: 40px; border: none; cursor: pointer; font-weight: bold;\" onclick=\"alert('Continúa con el Módulo 3: Analiza el discurso')\">➡️ Siguiente módulo (Comprensión auditiva)</button></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmub0hg-zd37rwmop</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Módulo 3: Analiza el discurso</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Módulo 3: Analiza el discurso</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Módulo 3: Analiza el discurso</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmub0hg-zd37rwmop</odePageId>
+      <odeBlockId>block-1779811387944-w88rtumyc</odeBlockId>
+      <blockName>Analiza el discurso</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmub0hg-zd37rwmop</odePageId>
+          <odeBlockId>block-1779811387944-w88rtumyc</odeBlockId>
+          <odeIdeviceId>idevice-1779811387942-3d9s2n4pv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="font-family: 'Segoe UI', Roboto, sans-serif; line-height: 1.5;"><!-- Encabezado del módulo -->
+<div style="background: linear-gradient(120deg, #2c5f8a, #1e3c5c); color: white; border-radius: 28px; padding: 1.5rem; margin-bottom: 1.5rem;">
+<h2 style="margin: 0 0 0.5rem 0; display: flex; align-items: center; gap: 10px;">🎧 Módulo 3: Analiza el discurso</h2>
+<p style="margin: 0; opacity: 0.9;">Entrena tu comprensión auditiva: identifica ideas principales, detalles específicos y mensajes implícitos.</p>
+</div>
+<!-- Introducción -->
+<div style="background: #eef2ff; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem; border-left: 6px solid #f5a623;">
+<p><strong>🎯 Objetivo:</strong> Desarrollar la capacidad de escuchar de forma activa, analizar discursos orales y extraer información relevante de manera crítica.</p>
+<p><strong>📌 ¿Por qué es importante?</strong> La comprensión oral es clave en el aula, en debates y en la vida profesional. Escuchar atentamente permite responder con coherencia y profundidad.</p>
+</div>
+<!-- Audio / discurso simulado (puedes reemplazar con archivo real) -->
+<div style="background: white; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+<h3 style="display: flex; align-items: center; gap: 8px;">🔊 Discurso: "La importancia de la comunicación oral en la formación docente"</h3>
+<p><em>Escucha atentamente el siguiente audio (aproximadamente 2 minutos). Luego responde las preguntas.</em></p>
+<!-- Simulación de audio: puedes reemplazar este bloque con <audio controls src="ruta.mp3"></audio> -->
+<div style="background: #e2e8f0; border-radius: 30px; padding: 1rem; text-align: center; margin: 1rem 0;">🎵 <strong>Audio simulacro:</strong> (En la versión final, aquí se insertará un archivo MP3 con un discurso grabado por un docente o locutor. Por ahora, lee el texto del discurso más abajo.)</div>
+<!-- Texto del discurso para practicar (mientras no hay audio) --><details>
+<summary style="cursor: pointer; color: #2c5f8a; font-weight: bold;">📄 Ver transcripción del discurso</summary>
+<div style="background: #f8fafc; padding: 1rem; border-radius: 16px; margin-top: 0.5rem;">
+<p>"La comunicación oral no es una habilidad innata, sino que se construye con práctica y conciencia. En la formación docente, ser capaz de expresarse con claridad, adaptar el mensaje al auditorio y escuchar activamente son competencias fundamentales. Un docente que domina la expresión oral puede motivar, explicar conceptos complejos y gestionar el aula de manera efectiva. Por el contrario, las dificultades en la fluidez, el vocabulario limitado o la falta de escucha atenta generan barreras en el aprendizaje. Por eso, la práctica sistemática de la expresión y comprensión oral debe ser un pilar en la carrera de Lengua y Literatura."</p>
+<p style="margin-top: 0.5rem;">Fuente: Adaptado de investigaciones sobre competencias comunicativas.</p>
+</div>
+</details></div>
+<!-- Preguntas de comprensión -->
+<div style="background: #f0f4fa; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem;">
+<h3>📝 Preguntas de comprensión auditiva</h3>
+<p>Responde cada pregunta. Al hacer clic en "Verificar" obtendrás retroalimentación inmediata.</p>
+<div style="margin-bottom: 1rem;">
+<p><strong>1. ¿Cuál es la idea principal del discurso?</strong></p>
+<label><input type="radio" name="p1" /> a) La comunicación oral es un don con el que se nace.</label><br /><label><input type="radio" name="p1" /> b) La comunicación oral se construye con práctica y es esencial en la formación docente.</label><br /><label><input type="radio" name="p1" /> c) Solo los docentes de Lengua necesitan buena expresión oral.</label> <button style="background: #2c5f8a; color: white; border: none; border-radius: 20px; padding: 4px 12px; margin-left: 10px;" onclick="alert('Respuesta correcta: b) La comunicación oral se construye con práctica y es esencial en la formación docente.')">Verificar</button></div>
+<div style="margin-bottom: 1rem;">
+<p><strong>2. Según el discurso, ¿qué consecuencias puede tener la falta de habilidades orales en un docente?</strong></p>
+<label><input type="radio" name="p2" /> a) Genera barreras en el aprendizaje.</label><br /><label><input type="radio" name="p2" /> b) No tiene ninguna consecuencia.</label><br /><label><input type="radio" name="p2" /> c) Solo afecta su vida personal.</label> <button style="background: #2c5f8a; color: white; border: none; border-radius: 20px; padding: 4px 12px; margin-left: 10px;" onclick="alert('Respuesta correcta: a) Genera barreras en el aprendizaje.')">Verificar</button></div>
+<div style="margin-bottom: 1rem;">
+<p><strong>3. ¿Qué elementos menciona el discurso como parte de la competencia comunicativa docente?</strong></p>
+<label><input type="radio" name="p3" /> a) Saber escribir únicamente.</label><br /><label><input type="radio" name="p3" /> b) Expresarse con claridad, adaptar el mensaje y escuchar activamente.</label><br /><label><input type="radio" name="p3" /> c) Hablar rápido y con muchas palabras.</label> <button style="background: #2c5f8a; color: white; border: none; border-radius: 20px; padding: 4px 12px; margin-left: 10px;" onclick="alert('Respuesta correcta: b) Expresarse con claridad, adaptar el mensaje y escuchar activamente.')">Verificar</button></div>
+</div>
+<!-- Actividad de análisis crítico -->
+<div style="background: #fff0df; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem;">
+<h3>✍️ Análisis crítico (reflexión escrita)</h3>
+<p>Escribe un breve párrafo (100-150 palabras) respondiendo: <strong>¿Qué estrategias propondrías para mejorar la comprensión oral en tus futuros estudiantes?</strong></p>
+<textarea rows="4" style="width: 100%; border-radius: 16px; border: 1px solid #ccc; padding: 10px; font-family: inherit;" placeholder="Escribe aquí tu reflexión..."></textarea>
+<p style="margin-top: 0.5rem;"><strong>🤝 Actividad colaborativa:</strong> Comparte tu respuesta con un compañero y comenten las similitudes y diferencias.</p>
+</div>
+<!-- Estrategias para mejorar la escucha activa -->
+<div style="background: #e6f7e6; border-radius: 24px; padding: 1.2rem;">
+<h3>👂 Tips para una escucha activa y comprensión crítica</h3>
+<ul style="margin-left: 1rem;">
+<li>🔹 <strong>Evita distracciones:</strong> Concéntrate en el hablante, apaga notificaciones.</li>
+<li>🔹 <strong>Toma notas breves</strong> de ideas clave mientras escuchas.</li>
+<li>🔹 <strong>Parafrasea mentalmente</strong> lo que escuchas para verificar comprensión.</li>
+<li>🔹 <strong>Identifica la estructura</strong> del discurso: introducción, desarrollo, conclusión.</li>
+<li>🔹 <strong>Pregunta después</strong> para aclarar dudas (si es una conversación real).</li>
+</ul>
+</div>
+<!-- Botón siguiente módulo -->
+<div style="text-align: center; margin-top: 2rem;"><button style="background: #2c5f8a; color: white; padding: 0.6rem 1.5rem; border-radius: 40px; border: none; cursor: pointer; font-weight: bold;" onclick="alert('Continúa con el Módulo 4: Desafíos de dicción')">➡️ Siguiente módulo (Dicción)</button></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779811387942-3d9s2n4pv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"font-family: 'Segoe UI', Roboto, sans-serif; line-height: 1.5;\"><!-- Encabezado del módulo -->\n<div style=\"background: linear-gradient(120deg, #2c5f8a, #1e3c5c); color: white; border-radius: 28px; padding: 1.5rem; margin-bottom: 1.5rem;\">\n<h2 style=\"margin: 0 0 0.5rem 0; display: flex; align-items: center; gap: 10px;\">🎧 Módulo 3: Analiza el discurso</h2>\n<p style=\"margin: 0; opacity: 0.9;\">Entrena tu comprensión auditiva: identifica ideas principales, detalles específicos y mensajes implícitos.</p>\n</div>\n<!-- Introducción -->\n<div style=\"background: #eef2ff; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem; border-left: 6px solid #f5a623;\">\n<p><strong>🎯 Objetivo:</strong> Desarrollar la capacidad de escuchar de forma activa, analizar discursos orales y extraer información relevante de manera crítica.</p>\n<p><strong>📌 ¿Por qué es importante?</strong> La comprensión oral es clave en el aula, en debates y en la vida profesional. Escuchar atentamente permite responder con coherencia y profundidad.</p>\n</div>\n<!-- Audio / discurso simulado (puedes reemplazar con archivo real) -->\n<div style=\"background: white; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05);\">\n<h3 style=\"display: flex; align-items: center; gap: 8px;\">🔊 Discurso: \"La importancia de la comunicación oral en la formación docente\"</h3>\n<p><em>Escucha atentamente el siguiente audio (aproximadamente 2 minutos). Luego responde las preguntas.</em></p>\n<!-- Simulación de audio: puedes reemplazar este bloque con <audio controls src=\"ruta.mp3\"></audio> -->\n<div style=\"background: #e2e8f0; border-radius: 30px; padding: 1rem; text-align: center; margin: 1rem 0;\">🎵 <strong>Audio simulacro:</strong> (En la versión final, aquí se insertará un archivo MP3 con un discurso grabado por un docente o locutor. Por ahora, lee el texto del discurso más abajo.)</div>\n<!-- Texto del discurso para practicar (mientras no hay audio) --><details>\n<summary style=\"cursor: pointer; color: #2c5f8a; font-weight: bold;\">📄 Ver transcripción del discurso</summary>\n<div style=\"background: #f8fafc; padding: 1rem; border-radius: 16px; margin-top: 0.5rem;\">\n<p>\"La comunicación oral no es una habilidad innata, sino que se construye con práctica y conciencia. En la formación docente, ser capaz de expresarse con claridad, adaptar el mensaje al auditorio y escuchar activamente son competencias fundamentales. Un docente que domina la expresión oral puede motivar, explicar conceptos complejos y gestionar el aula de manera efectiva. Por el contrario, las dificultades en la fluidez, el vocabulario limitado o la falta de escucha atenta generan barreras en el aprendizaje. Por eso, la práctica sistemática de la expresión y comprensión oral debe ser un pilar en la carrera de Lengua y Literatura.\"</p>\n<p style=\"margin-top: 0.5rem;\">Fuente: Adaptado de investigaciones sobre competencias comunicativas.</p>\n</div>\n</details></div>\n<!-- Preguntas de comprensión -->\n<div style=\"background: #f0f4fa; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem;\">\n<h3>📝 Preguntas de comprensión auditiva</h3>\n<p>Responde cada pregunta. Al hacer clic en \"Verificar\" obtendrás retroalimentación inmediata.</p>\n<div style=\"margin-bottom: 1rem;\">\n<p><strong>1. ¿Cuál es la idea principal del discurso?</strong></p>\n<label><input type=\"radio\" name=\"p1\" /> a) La comunicación oral es un don con el que se nace.</label><br /><label><input type=\"radio\" name=\"p1\" /> b) La comunicación oral se construye con práctica y es esencial en la formación docente.</label><br /><label><input type=\"radio\" name=\"p1\" /> c) Solo los docentes de Lengua necesitan buena expresión oral.</label> <button style=\"background: #2c5f8a; color: white; border: none; border-radius: 20px; padding: 4px 12px; margin-left: 10px;\" onclick=\"alert('Respuesta correcta: b) La comunicación oral se construye con práctica y es esencial en la formación docente.')\">Verificar</button></div>\n<div style=\"margin-bottom: 1rem;\">\n<p><strong>2. Según el discurso, ¿qué consecuencias puede tener la falta de habilidades orales en un docente?</strong></p>\n<label><input type=\"radio\" name=\"p2\" /> a) Genera barreras en el aprendizaje.</label><br /><label><input type=\"radio\" name=\"p2\" /> b) No tiene ninguna consecuencia.</label><br /><label><input type=\"radio\" name=\"p2\" /> c) Solo afecta su vida personal.</label> <button style=\"background: #2c5f8a; color: white; border: none; border-radius: 20px; padding: 4px 12px; margin-left: 10px;\" onclick=\"alert('Respuesta correcta: a) Genera barreras en el aprendizaje.')\">Verificar</button></div>\n<div style=\"margin-bottom: 1rem;\">\n<p><strong>3. ¿Qué elementos menciona el discurso como parte de la competencia comunicativa docente?</strong></p>\n<label><input type=\"radio\" name=\"p3\" /> a) Saber escribir únicamente.</label><br /><label><input type=\"radio\" name=\"p3\" /> b) Expresarse con claridad, adaptar el mensaje y escuchar activamente.</label><br /><label><input type=\"radio\" name=\"p3\" /> c) Hablar rápido y con muchas palabras.</label> <button style=\"background: #2c5f8a; color: white; border: none; border-radius: 20px; padding: 4px 12px; margin-left: 10px;\" onclick=\"alert('Respuesta correcta: b) Expresarse con claridad, adaptar el mensaje y escuchar activamente.')\">Verificar</button></div>\n</div>\n<!-- Actividad de análisis crítico -->\n<div style=\"background: #fff0df; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem;\">\n<h3>✍️ Análisis crítico (reflexión escrita)</h3>\n<p>Escribe un breve párrafo (100-150 palabras) respondiendo: <strong>¿Qué estrategias propondrías para mejorar la comprensión oral en tus futuros estudiantes?</strong></p>\n<textarea rows=\"4\" style=\"width: 100%; border-radius: 16px; border: 1px solid #ccc; padding: 10px; font-family: inherit;\" placeholder=\"Escribe aquí tu reflexión...\"></textarea>\n<p style=\"margin-top: 0.5rem;\"><strong>🤝 Actividad colaborativa:</strong> Comparte tu respuesta con un compañero y comenten las similitudes y diferencias.</p>\n</div>\n<!-- Estrategias para mejorar la escucha activa -->\n<div style=\"background: #e6f7e6; border-radius: 24px; padding: 1.2rem;\">\n<h3>👂 Tips para una escucha activa y comprensión crítica</h3>\n<ul style=\"margin-left: 1rem;\">\n<li>🔹 <strong>Evita distracciones:</strong> Concéntrate en el hablante, apaga notificaciones.</li>\n<li>🔹 <strong>Toma notas breves</strong> de ideas clave mientras escuchas.</li>\n<li>🔹 <strong>Parafrasea mentalmente</strong> lo que escuchas para verificar comprensión.</li>\n<li>🔹 <strong>Identifica la estructura</strong> del discurso: introducción, desarrollo, conclusión.</li>\n<li>🔹 <strong>Pregunta después</strong> para aclarar dudas (si es una conversación real).</li>\n</ul>\n</div>\n<!-- Botón siguiente módulo -->\n<div style=\"text-align: center; margin-top: 2rem;\"><button style=\"background: #2c5f8a; color: white; padding: 0.6rem 1.5rem; border-radius: 40px; border: none; cursor: pointer; font-weight: bold;\" onclick=\"alert('Continúa con el Módulo 4: Desafíos de dicción')\">➡️ Siguiente módulo (Dicción)</button></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmub0hg-ezahd3yrg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Módulo 4: Desafíos de dicción</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Módulo 4: Desafíos de dicción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Módulo 4: Desafíos de dicción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Módulo 4: Desafíos de dicción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmub0hg-ezahd3yrg</odePageId>
+      <odeBlockId>block-1779811534365-0nc1z9dkk</odeBlockId>
+      <blockName>Desafíos de dicción</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmub0hg-ezahd3yrg</odePageId>
+          <odeBlockId>block-1779811534365-0nc1z9dkk</odeBlockId>
+          <odeIdeviceId>idevice-1779811534362-b9vjhan5g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="font-family: 'Segoe UI', Roboto, sans-serif; line-height: 1.5;"><!-- Encabezado del módulo -->
+<div style="background: linear-gradient(120deg, #2c5f8a, #1e3c5c); color: white; border-radius: 28px; padding: 1.5rem; margin-bottom: 1.5rem;">
+<h2 style="margin: 0 0 0.5rem 0; display: flex; align-items: center; gap: 10px;">🗣️ Módulo 4: Desafíos de dicción</h2>
+<p style="margin: 0; opacity: 0.9;">Mejora tu pronunciación, elimina trabas verbales y domina el ritmo al hablar.</p>
+</div>
+<!-- Introducción -->
+<div style="background: #eef2ff; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem; border-left: 6px solid #f5a623;">
+<p><strong>🎯 Objetivo:</strong> Ejercitar la articulación, la velocidad y la claridad mediante trabalenguas y juegos de dicción, reduciendo errores comunes de pronunciación.</p>
+<p><strong>📌 ¿Por qué es importante?</strong> Una buena dicción facilita la comprensión del mensaje, proyecta seguridad y evita malentendidos. Es la base de una comunicación oral efectiva.</p>
+</div>
+<!-- Banco de trabalenguas -->
+<div style="background: white; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+<h3>🔤 Trabalenguas para practicar</h3>
+<p>Lee cada trabalenguas en voz alta, primero despacio y luego aumenta la velocidad. Grábate y compárate con el audio de ejemplo.</p>
+<div style="background: #fef9e3; border-radius: 20px; padding: 1rem; margin-bottom: 1rem;">
+<p><strong>1.</strong> <em>"Tres tristes tigres tragaban trigo en un trigal, en tres tristes trastos tragaban trigo tres tristes tigres."</em></p>
+<audio style="width: 100%;" controls="controls" src="#">Tu navegador no soporta audio. (Inserta aquí un archivo MP3 de ejemplo)</audio></div>
+<div style="background: #fef9e3; border-radius: 20px; padding: 1rem; margin-bottom: 1rem;">
+<p><strong>2.</strong> <em>"El cielo está enladrillado, ¿quién lo desenladrillará? El desenladrillador que lo desenladrille, buen desenladrillador será."</em></p>
+</div>
+<div style="background: #fef9e3; border-radius: 20px; padding: 1rem; margin-bottom: 1rem;">
+<p><strong>3.</strong> <em>"Pablito clavó un clavito. ¿Qué clavito clavó Pablito?"</em></p>
+</div>
+<div style="background: #fef9e3; border-radius: 20px; padding: 1rem;">
+<p><strong>4.</strong> <em>"Compré pocas copas, pocas copas compré, y como compré pocas copas, pocas copas pagué."</em></p>
+</div>
+</div>
+<!-- Ejercicio de ritmo y velocidad -->
+<div style="background: #f0f4fa; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem;">
+<h3>⏱️ Ejercicio de ritmo y velocidad</h3>
+<p>Lee la siguiente frase aumentando gradualmente la velocidad sin perder claridad:</p>
+<div style="background: white; border-radius: 20px; padding: 1rem; text-align: center; font-size: 1.1rem; font-weight: bold;">"El perro de San Roque no tiene rabo porque Ramón Rodríguez se lo ha robado."</div>
+<p><strong>🎤 Reto:</strong> Graba tu mejor intento (rápido y claro) y compártelo con un compañero para que te dé retroalimentación.</p>
+</div>
+<!-- Actividad de identificación de errores -->
+<div style="background: #fff0df; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem;">
+<h3>🔍 Identifica y corrige errores de dicción</h3>
+<p>Escucha (o lee) las siguientes frases con errores comunes. Reescríbelas correctamente.</p>
+<ul>
+<li><strong>Frase con error:</strong> "La profesora <em>ha dichen</em> que el examen es mañana." → <input type="text" placeholder="Corrección aquí" style="width: 60%; padding: 4px;" /></li>
+<li><strong>Frase con error:</strong> "Voy a <em>hacer una redacción</em> sobre el medio ambiente." (Error de pronunciación: "hacer" → "aser"). → <input type="text" placeholder="Corrección" style="width: 60%; padding: 4px;" /></li>
+<li><strong>Frase con error:</strong> "El <em>hueso</em> del problema es la falta de comunicación." (Confusión entre "hueso" y "foco/centro"). → <input type="text" placeholder="Corrección" style="width: 60%; padding: 4px;" /></li>
+</ul>
+<button style="background: #2c5f8a; color: white; border: none; border-radius: 20px; padding: 6px 16px; margin-top: 8px;" onclick="alert('Posibles correcciones: 1) ha dicho, 2) asir o escribir (depende del contexto), 3) el foco/centro del problema. Compara con tus respuestas.')">Verificar respuestas sugeridas</button></div>
+<!-- Juego colaborativo: competencia de trabalenguas -->
+<div style="background: #e6f7e6; border-radius: 24px; padding: 1.2rem;">
+<h3>🤝 Reto en equipo: competencia de trabalenguas</h3>
+<p>Formen grupos de 3 personas. Cada miembro elige un trabalenguas y lo dice en voz alta. El resto del equipo evalúa:</p>
+<ul>
+<li>✔️ Claridad (se entienden todas las palabras)</li>
+<li>✔️ Velocidad (sin pausas forzadas)</li>
+<li>✔️ Pronunciación correcta</li>
+</ul>
+<p>Al final, elijan al "Campeón de la dicción" del grupo. Luego, los campeones de cada grupo compiten frente a toda la clase (presencial o por videollamada).</p>
+<p><strong>📌 Registro del equipo:</strong> Anoten aquí los nombres y el ganador.</p>
+<textarea rows="3" style="width: 100%; border-radius: 16px; border: 1px solid #ccc; padding: 8px;" placeholder="Ejemplo: Ana, Luis, Carlos - Ganador: Luis por su rapidez y claridad."></textarea></div>
+<!-- Botón siguiente módulo -->
+<div style="text-align: center; margin-top: 2rem;"><button style="background: #2c5f8a; color: white; padding: 0.6rem 1.5rem; border-radius: 40px; border: none; cursor: pointer; font-weight: bold;" onclick="alert('Continúa con el Módulo 5: Retos en equipo')">➡️ Siguiente módulo (Colaboración)</button></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779811534362-b9vjhan5g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"font-family: 'Segoe UI', Roboto, sans-serif; line-height: 1.5;\"><!-- Encabezado del módulo -->\n<div style=\"background: linear-gradient(120deg, #2c5f8a, #1e3c5c); color: white; border-radius: 28px; padding: 1.5rem; margin-bottom: 1.5rem;\">\n<h2 style=\"margin: 0 0 0.5rem 0; display: flex; align-items: center; gap: 10px;\">🗣️ Módulo 4: Desafíos de dicción</h2>\n<p style=\"margin: 0; opacity: 0.9;\">Mejora tu pronunciación, elimina trabas verbales y domina el ritmo al hablar.</p>\n</div>\n<!-- Introducción -->\n<div style=\"background: #eef2ff; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem; border-left: 6px solid #f5a623;\">\n<p><strong>🎯 Objetivo:</strong> Ejercitar la articulación, la velocidad y la claridad mediante trabalenguas y juegos de dicción, reduciendo errores comunes de pronunciación.</p>\n<p><strong>📌 ¿Por qué es importante?</strong> Una buena dicción facilita la comprensión del mensaje, proyecta seguridad y evita malentendidos. Es la base de una comunicación oral efectiva.</p>\n</div>\n<!-- Banco de trabalenguas -->\n<div style=\"background: white; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05);\">\n<h3>🔤 Trabalenguas para practicar</h3>\n<p>Lee cada trabalenguas en voz alta, primero despacio y luego aumenta la velocidad. Grábate y compárate con el audio de ejemplo.</p>\n<div style=\"background: #fef9e3; border-radius: 20px; padding: 1rem; margin-bottom: 1rem;\">\n<p><strong>1.</strong> <em>\"Tres tristes tigres tragaban trigo en un trigal, en tres tristes trastos tragaban trigo tres tristes tigres.\"</em></p>\n<audio style=\"width: 100%;\" controls=\"controls\" src=\"#\">Tu navegador no soporta audio. (Inserta aquí un archivo MP3 de ejemplo)</audio></div>\n<div style=\"background: #fef9e3; border-radius: 20px; padding: 1rem; margin-bottom: 1rem;\">\n<p><strong>2.</strong> <em>\"El cielo está enladrillado, ¿quién lo desenladrillará? El desenladrillador que lo desenladrille, buen desenladrillador será.\"</em></p>\n</div>\n<div style=\"background: #fef9e3; border-radius: 20px; padding: 1rem; margin-bottom: 1rem;\">\n<p><strong>3.</strong> <em>\"Pablito clavó un clavito. ¿Qué clavito clavó Pablito?\"</em></p>\n</div>\n<div style=\"background: #fef9e3; border-radius: 20px; padding: 1rem;\">\n<p><strong>4.</strong> <em>\"Compré pocas copas, pocas copas compré, y como compré pocas copas, pocas copas pagué.\"</em></p>\n</div>\n</div>\n<!-- Ejercicio de ritmo y velocidad -->\n<div style=\"background: #f0f4fa; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem;\">\n<h3>⏱️ Ejercicio de ritmo y velocidad</h3>\n<p>Lee la siguiente frase aumentando gradualmente la velocidad sin perder claridad:</p>\n<div style=\"background: white; border-radius: 20px; padding: 1rem; text-align: center; font-size: 1.1rem; font-weight: bold;\">\"El perro de San Roque no tiene rabo porque Ramón Rodríguez se lo ha robado.\"</div>\n<p><strong>🎤 Reto:</strong> Graba tu mejor intento (rápido y claro) y compártelo con un compañero para que te dé retroalimentación.</p>\n</div>\n<!-- Actividad de identificación de errores -->\n<div style=\"background: #fff0df; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem;\">\n<h3>🔍 Identifica y corrige errores de dicción</h3>\n<p>Escucha (o lee) las siguientes frases con errores comunes. Reescríbelas correctamente.</p>\n<ul>\n<li><strong>Frase con error:</strong> \"La profesora <em>ha dichen</em> que el examen es mañana.\" → <input type=\"text\" placeholder=\"Corrección aquí\" style=\"width: 60%; padding: 4px;\" /></li>\n<li><strong>Frase con error:</strong> \"Voy a <em>hacer una redacción</em> sobre el medio ambiente.\" (Error de pronunciación: \"hacer\" → \"aser\"). → <input type=\"text\" placeholder=\"Corrección\" style=\"width: 60%; padding: 4px;\" /></li>\n<li><strong>Frase con error:</strong> \"El <em>hueso</em> del problema es la falta de comunicación.\" (Confusión entre \"hueso\" y \"foco/centro\"). → <input type=\"text\" placeholder=\"Corrección\" style=\"width: 60%; padding: 4px;\" /></li>\n</ul>\n<button style=\"background: #2c5f8a; color: white; border: none; border-radius: 20px; padding: 6px 16px; margin-top: 8px;\" onclick=\"alert('Posibles correcciones: 1) ha dicho, 2) asir o escribir (depende del contexto), 3) el foco/centro del problema. Compara con tus respuestas.')\">Verificar respuestas sugeridas</button></div>\n<!-- Juego colaborativo: competencia de trabalenguas -->\n<div style=\"background: #e6f7e6; border-radius: 24px; padding: 1.2rem;\">\n<h3>🤝 Reto en equipo: competencia de trabalenguas</h3>\n<p>Formen grupos de 3 personas. Cada miembro elige un trabalenguas y lo dice en voz alta. El resto del equipo evalúa:</p>\n<ul>\n<li>✔️ Claridad (se entienden todas las palabras)</li>\n<li>✔️ Velocidad (sin pausas forzadas)</li>\n<li>✔️ Pronunciación correcta</li>\n</ul>\n<p>Al final, elijan al \"Campeón de la dicción\" del grupo. Luego, los campeones de cada grupo compiten frente a toda la clase (presencial o por videollamada).</p>\n<p><strong>📌 Registro del equipo:</strong> Anoten aquí los nombres y el ganador.</p>\n<textarea rows=\"3\" style=\"width: 100%; border-radius: 16px; border: 1px solid #ccc; padding: 8px;\" placeholder=\"Ejemplo: Ana, Luis, Carlos - Ganador: Luis por su rapidez y claridad.\"></textarea></div>\n<!-- Botón siguiente módulo -->\n<div style=\"text-align: center; margin-top: 2rem;\"><button style=\"background: #2c5f8a; color: white; padding: 0.6rem 1.5rem; border-radius: 40px; border: none; cursor: pointer; font-weight: bold;\" onclick=\"alert('Continúa con el Módulo 5: Retos en equipo')\">➡️ Siguiente módulo (Colaboración)</button></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmub0hh-rz9cnq5nc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Módulo 5: Retos en equipo</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Módulo 5: Retos en equipo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> Módulo 5: Retos en equipo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Módulo 5: Retos en equipo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmub0hh-rz9cnq5nc</odePageId>
+      <odeBlockId>block-1779811658969-is91m6y01</odeBlockId>
+      <blockName>Retos en equipo</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmub0hh-rz9cnq5nc</odePageId>
+          <odeBlockId>block-1779811658969-is91m6y01</odeBlockId>
+          <odeIdeviceId>idevice-1779811658968-81dgi3l8k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="font-family: 'Segoe UI', Roboto, sans-serif; line-height: 1.5;"><!-- Encabezado del módulo -->
+<div style="background: linear-gradient(120deg, #2c5f8a, #1e3c5c); color: white; border-radius: 28px; padding: 1.5rem; margin-bottom: 1.5rem;">
+<h2 style="margin: 0 0 0.5rem 0; display: flex; align-items: center; gap: 10px;">🤝 Módulo 5: Retos en equipo</h2>
+<p style="margin: 0; opacity: 0.9;">Aprende a colaborar, debatir y construir conocimiento colectivo a través de la expresión oral.</p>
+</div>
+<!-- Introducción -->
+<div style="background: #eef2ff; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem; border-left: 6px solid #f5a623;">
+<p><strong>🎯 Objetivo:</strong> Desarrollar habilidades de comunicación colaborativa, argumentación y escucha activa mediante debates, mesas redondas y dinámicas grupales.</p>
+<p><strong>📌 ¿Por qué es importante?</strong> En tu futuro como docente, trabajarás en equipo, liderarás discusiones y facilitarás el diálogo. La colaboración fortalece el pensamiento crítico y la empatía.</p>
+</div>
+<!-- Actividad 1: Debate estructurado -->
+<div style="background: white; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+<h3>🎙️ Debate: ¿El uso excesivo de la tecnología afecta la expresión oral de los jóvenes?</h3>
+<p><strong>Instrucciones:</strong></p>
+<ul>
+<li>Formen grupos de 4-5 personas.</li>
+<li>Dividan roles: 2 a favor, 2 en contra y 1 moderador (encargado de dar la palabra y controlar tiempos).</li>
+<li>Cada participante tiene 2 minutos para exponer su postura inicial.</li>
+<li>Luego, 5 minutos de réplica y contrarréplica.</li>
+<li>El moderador resume las conclusiones.</li>
+</ul>
+<p><strong>💡 Consejo:</strong> Usen evidencia (datos, ejemplos) y eviten ataques personales. Practiquen la escucha activa.</p>
+<div style="background: #f0f4fa; border-radius: 20px; padding: 1rem; margin-top: 1rem;">
+<p><strong>📝 Espacio para conclusiones del grupo:</strong> (Un representante escribe aquí el resumen del debate)</p>
+<textarea rows="4" style="width: 100%; border-radius: 16px; border: 1px solid #ccc; padding: 8px;" placeholder="Ejemplo: Nuestro grupo concluyó que la tecnología no es mala en sí misma, pero el exceso de tiempo en redes sociales reduce las interacciones cara a cara, lo que puede afectar la fluidez y la confianza al hablar en público..."></textarea></div>
+</div>
+<!-- Actividad 2: Mesa redonda sobre temas de actualidad -->
+<div style="background: #fef9e3; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem;">
+<h3>🪑 Mesa redonda: "La inteligencia artificial en la educación: ¿aliada o amenaza?"</h3>
+<p><strong>Dinámica:</strong> Cada equipo investiga una postura (optimista, pesimista, equilibrada) y designa un representante. Los representantes se sientan frente a la clase (o frente a cámara) y dialogan durante 15 minutos. El resto del equipo toma notas y al final aporta preguntas.</p>
+<p><strong>📌 Registro de participación:</strong> Escribe los nombres de los representantes y las ideas clave que surgieron.</p>
+<textarea rows="3" style="width: 100%; border-radius: 16px; border: 1px solid #ccc; padding: 8px;" placeholder="Representantes: Ana (optimista), Luis (pesimista), Carla (equilibrada). Ideas clave: la IA puede personalizar aprendizajes, pero también reducir la interacción humana..."></textarea></div>
+<!-- Rúbrica de evaluación colaborativa (simulada) -->
+<div style="background: #e6f7e6; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem;">
+<h3>📊 Autoevaluación y coevaluación del trabajo en equipo</h3>
+<p>Marca con una ✔️ según tu desempeño y el de tus compañeros (1 = bajo, 4 = excelente). Sé honesto para mejorar.</p>
+<table style="width: 100%; border-collapse: collapse; background: white; border-radius: 16px; overflow: hidden;">
+<thead style="background: #2c5f8a; color: white;">
+<tr>
+<th style="padding: 8px;">Criterio</th>
+<th style="padding: 8px;">1</th>
+<th style="padding: 8px;">2</th>
+<th style="padding: 8px;">3</th>
+<th style="padding: 8px;">4</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-bottom: 1px solid #ddd;">
+<td>Participación activa en el debate</td>
+<td style="text-align: center;"><input type="radio" name="c1" /></td>
+<td style="text-align: center;"><input type="radio" name="c1" /></td>
+<td style="text-align: center;"><input type="radio" name="c1" /></td>
+<td style="text-align: center;"><input type="radio" name="c1" /></td>
+</tr>
+<tr style="border-bottom: 1px solid #ddd;">
+<td>Respeto por los turnos y opiniones ajenas</td>
+<td style="text-align: center;"><input type="radio" name="c2" /></td>
+<td style="text-align: center;"><input type="radio" name="c2" /></td>
+<td style="text-align: center;"><input type="radio" name="c2" /></td>
+<td style="text-align: center;"><input type="radio" name="c2" /></td>
+</tr>
+<tr style="border-bottom: 1px solid #ddd;">
+<td>Claridad y fluidez al exponer ideas</td>
+<td style="text-align: center;"><input type="radio" name="c3" /></td>
+<td style="text-align: center;"><input type="radio" name="c3" /></td>
+<td style="text-align: center;"><input type="radio" name="c3" /></td>
+<td style="text-align: center;"><input type="radio" name="c3" /></td>
+</tr>
+<tr>
+<td>Capacidad de síntesis y conclusión</td>
+<td style="text-align: center;"><input type="radio" name="c4" /></td>
+<td style="text-align: center;"><input type="radio" name="c4" /></td>
+<td style="text-align: center;"><input type="radio" name="c4" /></td>
+<td style="text-align: center;"><input type="radio" name="c4" /></td>
+</tr>
+</tbody>
+</table>
+<p style="margin-top: 1rem;"><strong>📝 Reflexión grupal:</strong> ¿Qué aprendieron al trabajar juntos? ¿Qué mejorarían para próximas colaboraciones?</p>
+<textarea rows="2" style="width: 100%; border-radius: 16px; border: 1px solid #ccc; padding: 8px;" placeholder="Aprendimos a escuchar activamente y a construir argumentos sólidos. Mejoraríamos la distribución del tiempo..."></textarea></div>
+<!-- Herramientas colaborativas externas -->
+<div style="background: #f0f4fa; border-radius: 24px; padding: 1.2rem;">
+<h3>🌐 Amplía la colaboración con herramientas digitales</h3>
+<p>Pueden usar estas plataformas para trabajar de forma asíncrona o sincrónica:</p>
+<ul>
+<li><strong>Padlet:</strong> Muro colaborativo para aportar ideas, audios o videos. <a href="https://padlet.com/" target="_blank" rel="noopener">Ir a Padlet</a></li>
+<li><strong>Google Docs:</strong> Para escribir conclusiones conjuntas en tiempo real.</li>
+<li><strong>WhatsApp / Telegram:</strong> Grupos de discusión rápida.</li>
+<li><strong>Jamboard:</strong> Pizarra virtual para organizar ideas.</li>
+</ul>
+<p>💡 <strong>Reto extra:</strong> Creen un Padlet compartido con 3 conclusiones del debate y envíen el enlace a su docente.</p>
+</div>
+<!-- Botón siguiente módulo (hacia autoevaluación) -->
+<div style="text-align: center; margin-top: 2rem;"><button style="background: #2c5f8a; color: white; padding: 0.6rem 1.5rem; border-radius: 40px; border: none; cursor: pointer; font-weight: bold;" onclick="alert('Continúa con la Autoevaluación final para medir tu progreso.')">➡️ Siguiente: Autoevaluación final</button></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779811658968-81dgi3l8k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"font-family: 'Segoe UI', Roboto, sans-serif; line-height: 1.5;\"><!-- Encabezado del módulo -->\n<div style=\"background: linear-gradient(120deg, #2c5f8a, #1e3c5c); color: white; border-radius: 28px; padding: 1.5rem; margin-bottom: 1.5rem;\">\n<h2 style=\"margin: 0 0 0.5rem 0; display: flex; align-items: center; gap: 10px;\">🤝 Módulo 5: Retos en equipo</h2>\n<p style=\"margin: 0; opacity: 0.9;\">Aprende a colaborar, debatir y construir conocimiento colectivo a través de la expresión oral.</p>\n</div>\n<!-- Introducción -->\n<div style=\"background: #eef2ff; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem; border-left: 6px solid #f5a623;\">\n<p><strong>🎯 Objetivo:</strong> Desarrollar habilidades de comunicación colaborativa, argumentación y escucha activa mediante debates, mesas redondas y dinámicas grupales.</p>\n<p><strong>📌 ¿Por qué es importante?</strong> En tu futuro como docente, trabajarás en equipo, liderarás discusiones y facilitarás el diálogo. La colaboración fortalece el pensamiento crítico y la empatía.</p>\n</div>\n<!-- Actividad 1: Debate estructurado -->\n<div style=\"background: white; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05);\">\n<h3>🎙️ Debate: ¿El uso excesivo de la tecnología afecta la expresión oral de los jóvenes?</h3>\n<p><strong>Instrucciones:</strong></p>\n<ul>\n<li>Formen grupos de 4-5 personas.</li>\n<li>Dividan roles: 2 a favor, 2 en contra y 1 moderador (encargado de dar la palabra y controlar tiempos).</li>\n<li>Cada participante tiene 2 minutos para exponer su postura inicial.</li>\n<li>Luego, 5 minutos de réplica y contrarréplica.</li>\n<li>El moderador resume las conclusiones.</li>\n</ul>\n<p><strong>💡 Consejo:</strong> Usen evidencia (datos, ejemplos) y eviten ataques personales. Practiquen la escucha activa.</p>\n<div style=\"background: #f0f4fa; border-radius: 20px; padding: 1rem; margin-top: 1rem;\">\n<p><strong>📝 Espacio para conclusiones del grupo:</strong> (Un representante escribe aquí el resumen del debate)</p>\n<textarea rows=\"4\" style=\"width: 100%; border-radius: 16px; border: 1px solid #ccc; padding: 8px;\" placeholder=\"Ejemplo: Nuestro grupo concluyó que la tecnología no es mala en sí misma, pero el exceso de tiempo en redes sociales reduce las interacciones cara a cara, lo que puede afectar la fluidez y la confianza al hablar en público...\"></textarea></div>\n</div>\n<!-- Actividad 2: Mesa redonda sobre temas de actualidad -->\n<div style=\"background: #fef9e3; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem;\">\n<h3>🪑 Mesa redonda: \"La inteligencia artificial en la educación: ¿aliada o amenaza?\"</h3>\n<p><strong>Dinámica:</strong> Cada equipo investiga una postura (optimista, pesimista, equilibrada) y designa un representante. Los representantes se sientan frente a la clase (o frente a cámara) y dialogan durante 15 minutos. El resto del equipo toma notas y al final aporta preguntas.</p>\n<p><strong>📌 Registro de participación:</strong> Escribe los nombres de los representantes y las ideas clave que surgieron.</p>\n<textarea rows=\"3\" style=\"width: 100%; border-radius: 16px; border: 1px solid #ccc; padding: 8px;\" placeholder=\"Representantes: Ana (optimista), Luis (pesimista), Carla (equilibrada). Ideas clave: la IA puede personalizar aprendizajes, pero también reducir la interacción humana...\"></textarea></div>\n<!-- Rúbrica de evaluación colaborativa (simulada) -->\n<div style=\"background: #e6f7e6; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem;\">\n<h3>📊 Autoevaluación y coevaluación del trabajo en equipo</h3>\n<p>Marca con una ✔️ según tu desempeño y el de tus compañeros (1 = bajo, 4 = excelente). Sé honesto para mejorar.</p>\n<table style=\"width: 100%; border-collapse: collapse; background: white; border-radius: 16px; overflow: hidden;\">\n<thead style=\"background: #2c5f8a; color: white;\">\n<tr>\n<th style=\"padding: 8px;\">Criterio</th>\n<th style=\"padding: 8px;\">1</th>\n<th style=\"padding: 8px;\">2</th>\n<th style=\"padding: 8px;\">3</th>\n<th style=\"padding: 8px;\">4</th>\n</tr>\n</thead>\n<tbody>\n<tr style=\"border-bottom: 1px solid #ddd;\">\n<td>Participación activa en el debate</td>\n<td style=\"text-align: center;\"><input type=\"radio\" name=\"c1\" /></td>\n<td style=\"text-align: center;\"><input type=\"radio\" name=\"c1\" /></td>\n<td style=\"text-align: center;\"><input type=\"radio\" name=\"c1\" /></td>\n<td style=\"text-align: center;\"><input type=\"radio\" name=\"c1\" /></td>\n</tr>\n<tr style=\"border-bottom: 1px solid #ddd;\">\n<td>Respeto por los turnos y opiniones ajenas</td>\n<td style=\"text-align: center;\"><input type=\"radio\" name=\"c2\" /></td>\n<td style=\"text-align: center;\"><input type=\"radio\" name=\"c2\" /></td>\n<td style=\"text-align: center;\"><input type=\"radio\" name=\"c2\" /></td>\n<td style=\"text-align: center;\"><input type=\"radio\" name=\"c2\" /></td>\n</tr>\n<tr style=\"border-bottom: 1px solid #ddd;\">\n<td>Claridad y fluidez al exponer ideas</td>\n<td style=\"text-align: center;\"><input type=\"radio\" name=\"c3\" /></td>\n<td style=\"text-align: center;\"><input type=\"radio\" name=\"c3\" /></td>\n<td style=\"text-align: center;\"><input type=\"radio\" name=\"c3\" /></td>\n<td style=\"text-align: center;\"><input type=\"radio\" name=\"c3\" /></td>\n</tr>\n<tr>\n<td>Capacidad de síntesis y conclusión</td>\n<td style=\"text-align: center;\"><input type=\"radio\" name=\"c4\" /></td>\n<td style=\"text-align: center;\"><input type=\"radio\" name=\"c4\" /></td>\n<td style=\"text-align: center;\"><input type=\"radio\" name=\"c4\" /></td>\n<td style=\"text-align: center;\"><input type=\"radio\" name=\"c4\" /></td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 1rem;\"><strong>📝 Reflexión grupal:</strong> ¿Qué aprendieron al trabajar juntos? ¿Qué mejorarían para próximas colaboraciones?</p>\n<textarea rows=\"2\" style=\"width: 100%; border-radius: 16px; border: 1px solid #ccc; padding: 8px;\" placeholder=\"Aprendimos a escuchar activamente y a construir argumentos sólidos. Mejoraríamos la distribución del tiempo...\"></textarea></div>\n<!-- Herramientas colaborativas externas -->\n<div style=\"background: #f0f4fa; border-radius: 24px; padding: 1.2rem;\">\n<h3>🌐 Amplía la colaboración con herramientas digitales</h3>\n<p>Pueden usar estas plataformas para trabajar de forma asíncrona o sincrónica:</p>\n<ul>\n<li><strong>Padlet:</strong> Muro colaborativo para aportar ideas, audios o videos. <a href=\"https://padlet.com/\" target=\"_blank\" rel=\"noopener\">Ir a Padlet</a></li>\n<li><strong>Google Docs:</strong> Para escribir conclusiones conjuntas en tiempo real.</li>\n<li><strong>WhatsApp / Telegram:</strong> Grupos de discusión rápida.</li>\n<li><strong>Jamboard:</strong> Pizarra virtual para organizar ideas.</li>\n</ul>\n<p>💡 <strong>Reto extra:</strong> Creen un Padlet compartido con 3 conclusiones del debate y envíen el enlace a su docente.</p>\n</div>\n<!-- Botón siguiente módulo (hacia autoevaluación) -->\n<div style=\"text-align: center; margin-top: 2rem;\"><button style=\"background: #2c5f8a; color: white; padding: 0.6rem 1.5rem; border-radius: 40px; border: none; cursor: pointer; font-weight: bold;\" onclick=\"alert('Continúa con la Autoevaluación final para medir tu progreso.')\">➡️ Siguiente: Autoevaluación final</button></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmub0hi-2vwa7nkw3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Autoevaluación final</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Autoevaluación final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Autoevaluación final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Autoevaluación final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmub0hi-2vwa7nkw3</odePageId>
+      <odeBlockId>block-1779811827218-3qylljtmv</odeBlockId>
+      <blockName>Autoevaluación final</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmub0hi-2vwa7nkw3</odePageId>
+          <odeBlockId>block-1779811827218-3qylljtmv</odeBlockId>
+          <odeIdeviceId>idevice-1779811827217-sa4mky1q4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="font-family: 'Segoe UI', Roboto, sans-serif; line-height: 1.5;"><!-- Encabezado -->
+<div style="background: linear-gradient(120deg, #2c5f8a, #1e3c5c); color: white; border-radius: 28px; padding: 1.5rem; margin-bottom: 1.5rem;">
+<h2 style="margin: 0 0 0.5rem 0; display: flex; align-items: center; gap: 10px;">✅ Autoevaluación final</h2>
+<p style="margin: 0; opacity: 0.9;">Pon a prueba lo aprendido. Responde las preguntas y recibe retroalimentación inmediata.</p>
+</div>
+<!-- Instrucciones -->
+<div style="background: #eef2ff; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem; border-left: 6px solid #f5a623;">
+<p><strong>🎯 Instrucciones:</strong> Lee cada pregunta y selecciona la opción correcta. Al final, haz clic en "Calificar" para ver tu puntaje y las respuestas correctas.</p>
+<p>📌 Este cuestionario evalúa vocabulario, comprensión auditiva, dicción y estrategias colaborativas.</p>
+</div>
+<!-- Formulario de preguntas -->
+<div id="quizContainer"><!-- Pregunta 1 -->
+<div style="background: white; border-radius: 20px; padding: 1rem; margin-bottom: 1rem; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+<p><strong>1.</strong> ¿Cuál es el sinónimo formal de la expresión coloquial "echarle ganas"?</p>
+<label><input type="radio" name="q1" value="a" /> a) Desistir</label><br /><label><input type="radio" name="q1" value="b" /> b) Esforzarse / Perseverar</label><br /><label><input type="radio" name="q1" value="c" /> c) Ignorar</label>
+<div class="feedback" id="fb1" style="font-size: 0.85rem; margin-top: 5px;"></div>
+</div>
+<!-- Pregunta 2 -->
+<div style="background: white; border-radius: 20px; padding: 1rem; margin-bottom: 1rem; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+<p><strong>2.</strong> Verdadero o falso: "La comprensión oral es un proceso pasivo que no requiere interpretación por parte del oyente."</p>
+<label><input type="radio" name="q2" value="a" /> a) Verdadero</label><br /><label><input type="radio" name="q2" value="b" /> b) Falso</label>
+<div class="feedback" id="fb2" style="font-size: 0.85rem; margin-top: 5px;"></div>
+</div>
+<!-- Pregunta 3 -->
+<div style="background: white; border-radius: 20px; padding: 1rem; margin-bottom: 1rem; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+<p><strong>3.</strong> ¿Cuál de los siguientes elementos NO es paralingüístico?</p>
+<label><input type="radio" name="q3" value="a" /> a) El volumen de la voz</label><br /><label><input type="radio" name="q3" value="b" /> b) La estructura gramatical de la oración</label><br /><label><input type="radio" name="q3" value="c" /> c) El ritmo al hablar</label>
+<div class="feedback" id="fb3" style="font-size: 0.85rem; margin-top: 5px;"></div>
+</div>
+<!-- Pregunta 4 -->
+<div style="background: white; border-radius: 20px; padding: 1rem; margin-bottom: 1rem; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+<p><strong>4.</strong> ¿Qué actividad es más efectiva para mejorar la dicción y eliminar trabas verbales?</p>
+<label><input type="radio" name="q4" value="a" /> a) Leer en silencio</label><br /><label><input type="radio" name="q4" value="b" /> b) Practicar trabalenguas en voz alta</label><br /><label><input type="radio" name="q4" value="c" /> c) Escribir resúmenes</label>
+<div class="feedback" id="fb4" style="font-size: 0.85rem; margin-top: 5px;"></div>
+</div>
+<!-- Pregunta 5 -->
+<div style="background: white; border-radius: 20px; padding: 1rem; margin-bottom: 1rem; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+<p><strong>5.</strong> En un debate colaborativo, ¿cuál es la función del moderador?</p>
+<label><input type="radio" name="q5" value="a" /> a) Imponer su opinión</label><br /><label><input type="radio" name="q5" value="b" /> b) Controlar tiempos, dar la palabra y resumir conclusiones</label><br /><label><input type="radio" name="q5" value="c" /> c) Tomar notas sin participar</label>
+<div class="feedback" id="fb5" style="font-size: 0.85rem; margin-top: 5px;"></div>
+</div>
+<!-- Pregunta 6 (comprensión auditiva simulada) -->
+<div style="background: white; border-radius: 20px; padding: 1rem; margin-bottom: 1rem; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+<p><strong>6.</strong> Escucha atentamente el siguiente audio (imagina o inserta un audio real) y responde: ¿Cuál es la idea principal?</p>
+<div style="background: #f0f4fa; border-radius: 16px; padding: 10px; margin: 10px 0;">🎧 <em>Audio simulado: "La práctica constante de la expresión oral, combinada con la retroalimentación y el trabajo en equipo, reduce significativamente la ansiedad escénica y mejora la fluidez."</em></div>
+<label><input type="radio" name="q6" value="a" /> a) La ansiedad escénica es imposible de superar</label><br /><label><input type="radio" name="q6" value="b" /> b) La práctica, retroalimentación y colaboración mejoran la expresión oral</label><br /><label><input type="radio" name="q6" value="c" /> c) Solo el trabajo individual es efectivo</label>
+<div class="feedback" id="fb6" style="font-size: 0.85rem; margin-top: 5px;"></div>
+</div>
+<!-- Pregunta 7 -->
+<div style="background: white; border-radius: 20px; padding: 1rem; margin-bottom: 1rem; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+<p><strong>7.</strong> ¿Cuál es un ejemplo de muletilla que se debe evitar en un discurso formal?</p>
+<label><input type="radio" name="q7" value="a" /> a) "Por lo tanto"</label><br /><label><input type="radio" name="q7" value="b" /> b) "Este... o sea... ¿cómo te explico?"</label><br /><label><input type="radio" name="q7" value="c" /> c) "En consecuencia"</label>
+<div class="feedback" id="fb7" style="font-size: 0.85rem; margin-top: 5px;"></div>
+</div>
+<!-- Botón de calificar -->
+<div style="text-align: center; margin: 1.5rem 0;"><button id="btnCalificar" style="background: #f5a623; color: #1e2a36; padding: 0.7rem 2rem; border-radius: 40px; font-weight: bold; border: none; cursor: pointer; font-size: 1rem;">📊 Calificar</button></div>
+<!-- Resultado final -->
+<div id="resultadoFinal" style="background: #1e3c5c; color: white; border-radius: 24px; padding: 1rem; text-align: center; display: none;">
+<h3>Tu puntaje: <span id="puntaje">0</span> / 7</h3>
+<p id="mensajeFeedback"></p>
+<button id="reiniciar" style="background: white; color: #1e3c5c; border: none; padding: 0.4rem 1.2rem; border-radius: 30px; margin-top: 10px; cursor: pointer;">Reintentar</button></div>
+</div>
+<!-- Script de calificación -->
+<script>
+        // Respuestas correctas
+        const respuestasCorrectas = {
+            q1: 'b',
+            q2: 'b',
+            q3: 'b',
+            q4: 'b',
+            q5: 'b',
+            q6: 'b',
+            q7: 'b'
+        };
+
+        // Retroalimentación por pregunta
+        const feedbackText = {
+            q1: '✅ Correcto. "Esforzarse / Perseverar" es el sinónimo formal de "echarle ganas".',
+            q1_w: '❌ Incorrecto. La respuesta correcta es b) Esforzarse / Perseverar.',
+            q2: '✅ Correcto. La comprensión oral es activa: requiere interpretar, analizar y procesar.',
+            q2_w: '❌ Incorrecto. Es falso: la comprensión oral es un proceso activo.',
+            q3: '✅ Correcto. La estructura gramatical es lingüística, no paralingüística. Volumen y ritmo sí lo son.',
+            q3_w: '❌ Incorrecto. El elemento que NO es paralingüístico es b) La estructura gramatical.',
+            q4: '✅ Correcto. Los trabalenguas en voz alta ejercitan la dicción y la agilidad verbal.',
+            q4_w: '❌ Incorrecto. La mejor opción es b) Practicar trabalenguas en voz alta.',
+            q5: '✅ Correcto. El moderador facilita el debate, controla tiempos y resume.',
+            q5_w: '❌ Incorrecto. La función correcta es b) Controlar tiempos, dar la palabra y resumir.',
+            q6: '✅ Correcto. La idea principal es que la práctica, retroalimentación y colaboración mejoran la expresión oral.',
+            q6_w: '❌ Incorrecto. La respuesta correcta es b).',
+            q7: '✅ Correcto. Las muletillas como "este", "o sea" afectan la fluidez y deben evitarse.',
+            q7_w: '❌ Incorrecto. El ejemplo de muletilla es b) "Este... o sea... ¿cómo te explico?"'
+        };
+
+        function calificar() {
+            let puntaje = 0;
+            // Mostrar feedback y contar correctas
+            for (let i = 1; i <= 7; i++) {
+                const name = 'q' + i;
+                const radios = document.getElementsByName(name);
+                let selectedValue = null;
+                for (let r of radios) {
+                    if (r.checked) {
+                        selectedValue = r.value;
+                        break;
+                    }
+                }
+                const fbDiv = document.getElementById('fb' + i);
+                if (selectedValue === respuestasCorrectas[name]) {
+                    puntaje++;
+                    fbDiv.innerHTML = feedbackText[name];
+                    fbDiv.style.color = 'green';
+                } else {
+                    fbDiv.innerHTML = feedbackText[name + '_w'] || feedbackText[name];
+                    fbDiv.style.color = 'red';
+                }
+            }
+            // Mostrar resultado final
+            const resultadoDiv = document.getElementById('resultadoFinal');
+            const puntajeSpan = document.getElementById('puntaje');
+            const mensaje = document.getElementById('mensajeFeedback');
+            puntajeSpan.textContent = puntaje;
+            if (puntaje === 7) {
+                mensaje.innerHTML = '🎉 ¡Excelente! Dominas los conceptos de expresión y comprensión oral. Sigue así.';
+            } else if (puntaje >= 5) {
+                mensaje.innerHTML = '👍 Muy bien. Revisa las retroalimentaciones para seguir mejorando.';
+            } else {
+                mensaje.innerHTML = '📚 Te sugerimos repasar los módulos de vocabulario y dicción. ¡Tú puedes!';
+            }
+            resultadoDiv.style.display = 'block';
+            // Desplazar suavemente al resultado
+            resultadoDiv.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        }
+
+        function reiniciarExamen() {
+            // Limpiar selecciones y feedbacks
+            for (let i = 1; i <= 7; i++) {
+                const radios = document.getElementsByName('q' + i);
+                radios.forEach(r => r.checked = false);
+                const fbDiv = document.getElementById('fb' + i);
+                fbDiv.innerHTML = '';
+                fbDiv.style.color = '';
+            }
+            document.getElementById('resultadoFinal').style.display = 'none';
+            // Opcional: limpiar también el puntaje mostrado
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        document.getElementById('btnCalificar').addEventListener('click', calificar);
+        document.getElementById('reiniciar').addEventListener('click', reiniciarExamen);
+    </script>
+<!-- Botón de finalización (opcional) -->
+<div style="text-align: center; margin-top: 1.5rem;"><button style="background: #2c5f8a; color: white; padding: 0.6rem 1.5rem; border-radius: 40px; border: none; cursor: pointer; font-weight: bold;" onclick="alert('¡Has completado EXPRETODOS! Sigue practicando para mejorar tu expresión oral.')">🏁 Finalizar y cerrar</button></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779811827217-sa4mky1q4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"font-family: 'Segoe UI', Roboto, sans-serif; line-height: 1.5;\"><!-- Encabezado -->\n<div style=\"background: linear-gradient(120deg, #2c5f8a, #1e3c5c); color: white; border-radius: 28px; padding: 1.5rem; margin-bottom: 1.5rem;\">\n<h2 style=\"margin: 0 0 0.5rem 0; display: flex; align-items: center; gap: 10px;\">✅ Autoevaluación final</h2>\n<p style=\"margin: 0; opacity: 0.9;\">Pon a prueba lo aprendido. Responde las preguntas y recibe retroalimentación inmediata.</p>\n</div>\n<!-- Instrucciones -->\n<div style=\"background: #eef2ff; border-radius: 24px; padding: 1.2rem; margin-bottom: 1.5rem; border-left: 6px solid #f5a623;\">\n<p><strong>🎯 Instrucciones:</strong> Lee cada pregunta y selecciona la opción correcta. Al final, haz clic en \"Calificar\" para ver tu puntaje y las respuestas correctas.</p>\n<p>📌 Este cuestionario evalúa vocabulario, comprensión auditiva, dicción y estrategias colaborativas.</p>\n</div>\n<!-- Formulario de preguntas -->\n<div id=\"quizContainer\"><!-- Pregunta 1 -->\n<div style=\"background: white; border-radius: 20px; padding: 1rem; margin-bottom: 1rem; box-shadow: 0 2px 8px rgba(0,0,0,0.05);\">\n<p><strong>1.</strong> ¿Cuál es el sinónimo formal de la expresión coloquial \"echarle ganas\"?</p>\n<label><input type=\"radio\" name=\"q1\" value=\"a\" /> a) Desistir</label><br /><label><input type=\"radio\" name=\"q1\" value=\"b\" /> b) Esforzarse / Perseverar</label><br /><label><input type=\"radio\" name=\"q1\" value=\"c\" /> c) Ignorar</label>\n<div class=\"feedback\" id=\"fb1\" style=\"font-size: 0.85rem; margin-top: 5px;\"></div>\n</div>\n<!-- Pregunta 2 -->\n<div style=\"background: white; border-radius: 20px; padding: 1rem; margin-bottom: 1rem; box-shadow: 0 2px 8px rgba(0,0,0,0.05);\">\n<p><strong>2.</strong> Verdadero o falso: \"La comprensión oral es un proceso pasivo que no requiere interpretación por parte del oyente.\"</p>\n<label><input type=\"radio\" name=\"q2\" value=\"a\" /> a) Verdadero</label><br /><label><input type=\"radio\" name=\"q2\" value=\"b\" /> b) Falso</label>\n<div class=\"feedback\" id=\"fb2\" style=\"font-size: 0.85rem; margin-top: 5px;\"></div>\n</div>\n<!-- Pregunta 3 -->\n<div style=\"background: white; border-radius: 20px; padding: 1rem; margin-bottom: 1rem; box-shadow: 0 2px 8px rgba(0,0,0,0.05);\">\n<p><strong>3.</strong> ¿Cuál de los siguientes elementos NO es paralingüístico?</p>\n<label><input type=\"radio\" name=\"q3\" value=\"a\" /> a) El volumen de la voz</label><br /><label><input type=\"radio\" name=\"q3\" value=\"b\" /> b) La estructura gramatical de la oración</label><br /><label><input type=\"radio\" name=\"q3\" value=\"c\" /> c) El ritmo al hablar</label>\n<div class=\"feedback\" id=\"fb3\" style=\"font-size: 0.85rem; margin-top: 5px;\"></div>\n</div>\n<!-- Pregunta 4 -->\n<div style=\"background: white; border-radius: 20px; padding: 1rem; margin-bottom: 1rem; box-shadow: 0 2px 8px rgba(0,0,0,0.05);\">\n<p><strong>4.</strong> ¿Qué actividad es más efectiva para mejorar la dicción y eliminar trabas verbales?</p>\n<label><input type=\"radio\" name=\"q4\" value=\"a\" /> a) Leer en silencio</label><br /><label><input type=\"radio\" name=\"q4\" value=\"b\" /> b) Practicar trabalenguas en voz alta</label><br /><label><input type=\"radio\" name=\"q4\" value=\"c\" /> c) Escribir resúmenes</label>\n<div class=\"feedback\" id=\"fb4\" style=\"font-size: 0.85rem; margin-top: 5px;\"></div>\n</div>\n<!-- Pregunta 5 -->\n<div style=\"background: white; border-radius: 20px; padding: 1rem; margin-bottom: 1rem; box-shadow: 0 2px 8px rgba(0,0,0,0.05);\">\n<p><strong>5.</strong> En un debate colaborativo, ¿cuál es la función del moderador?</p>\n<label><input type=\"radio\" name=\"q5\" value=\"a\" /> a) Imponer su opinión</label><br /><label><input type=\"radio\" name=\"q5\" value=\"b\" /> b) Controlar tiempos, dar la palabra y resumir conclusiones</label><br /><label><input type=\"radio\" name=\"q5\" value=\"c\" /> c) Tomar notas sin participar</label>\n<div class=\"feedback\" id=\"fb5\" style=\"font-size: 0.85rem; margin-top: 5px;\"></div>\n</div>\n<!-- Pregunta 6 (comprensión auditiva simulada) -->\n<div style=\"background: white; border-radius: 20px; padding: 1rem; margin-bottom: 1rem; box-shadow: 0 2px 8px rgba(0,0,0,0.05);\">\n<p><strong>6.</strong> Escucha atentamente el siguiente audio (imagina o inserta un audio real) y responde: ¿Cuál es la idea principal?</p>\n<div style=\"background: #f0f4fa; border-radius: 16px; padding: 10px; margin: 10px 0;\">🎧 <em>Audio simulado: \"La práctica constante de la expresión oral, combinada con la retroalimentación y el trabajo en equipo, reduce significativamente la ansiedad escénica y mejora la fluidez.\"</em></div>\n<label><input type=\"radio\" name=\"q6\" value=\"a\" /> a) La ansiedad escénica es imposible de superar</label><br /><label><input type=\"radio\" name=\"q6\" value=\"b\" /> b) La práctica, retroalimentación y colaboración mejoran la expresión oral</label><br /><label><input type=\"radio\" name=\"q6\" value=\"c\" /> c) Solo el trabajo individual es efectivo</label>\n<div class=\"feedback\" id=\"fb6\" style=\"font-size: 0.85rem; margin-top: 5px;\"></div>\n</div>\n<!-- Pregunta 7 -->\n<div style=\"background: white; border-radius: 20px; padding: 1rem; margin-bottom: 1rem; box-shadow: 0 2px 8px rgba(0,0,0,0.05);\">\n<p><strong>7.</strong> ¿Cuál es un ejemplo de muletilla que se debe evitar en un discurso formal?</p>\n<label><input type=\"radio\" name=\"q7\" value=\"a\" /> a) \"Por lo tanto\"</label><br /><label><input type=\"radio\" name=\"q7\" value=\"b\" /> b) \"Este... o sea... ¿cómo te explico?\"</label><br /><label><input type=\"radio\" name=\"q7\" value=\"c\" /> c) \"En consecuencia\"</label>\n<div class=\"feedback\" id=\"fb7\" style=\"font-size: 0.85rem; margin-top: 5px;\"></div>\n</div>\n<!-- Botón de calificar -->\n<div style=\"text-align: center; margin: 1.5rem 0;\"><button id=\"btnCalificar\" style=\"background: #f5a623; color: #1e2a36; padding: 0.7rem 2rem; border-radius: 40px; font-weight: bold; border: none; cursor: pointer; font-size: 1rem;\">📊 Calificar</button></div>\n<!-- Resultado final -->\n<div id=\"resultadoFinal\" style=\"background: #1e3c5c; color: white; border-radius: 24px; padding: 1rem; text-align: center; display: none;\">\n<h3>Tu puntaje: <span id=\"puntaje\">0</span> / 7</h3>\n<p id=\"mensajeFeedback\"></p>\n<button id=\"reiniciar\" style=\"background: white; color: #1e3c5c; border: none; padding: 0.4rem 1.2rem; border-radius: 30px; margin-top: 10px; cursor: pointer;\">Reintentar</button></div>\n</div>\n<!-- Script de calificación -->\n<script>\n        // Respuestas correctas\n        const respuestasCorrectas = {\n            q1: 'b',\n            q2: 'b',\n            q3: 'b',\n            q4: 'b',\n            q5: 'b',\n            q6: 'b',\n            q7: 'b'\n        };\n\n        // Retroalimentación por pregunta\n        const feedbackText = {\n            q1: '✅ Correcto. \"Esforzarse / Perseverar\" es el sinónimo formal de \"echarle ganas\".',\n            q1_w: '❌ Incorrecto. La respuesta correcta es b) Esforzarse / Perseverar.',\n            q2: '✅ Correcto. La comprensión oral es activa: requiere interpretar, analizar y procesar.',\n            q2_w: '❌ Incorrecto. Es falso: la comprensión oral es un proceso activo.',\n            q3: '✅ Correcto. La estructura gramatical es lingüística, no paralingüística. Volumen y ritmo sí lo son.',\n            q3_w: '❌ Incorrecto. El elemento que NO es paralingüístico es b) La estructura gramatical.',\n            q4: '✅ Correcto. Los trabalenguas en voz alta ejercitan la dicción y la agilidad verbal.',\n            q4_w: '❌ Incorrecto. La mejor opción es b) Practicar trabalenguas en voz alta.',\n            q5: '✅ Correcto. El moderador facilita el debate, controla tiempos y resume.',\n            q5_w: '❌ Incorrecto. La función correcta es b) Controlar tiempos, dar la palabra y resumir.',\n            q6: '✅ Correcto. La idea principal es que la práctica, retroalimentación y colaboración mejoran la expresión oral.',\n            q6_w: '❌ Incorrecto. La respuesta correcta es b).',\n            q7: '✅ Correcto. Las muletillas como \"este\", \"o sea\" afectan la fluidez y deben evitarse.',\n            q7_w: '❌ Incorrecto. El ejemplo de muletilla es b) \"Este... o sea... ¿cómo te explico?\"'\n        };\n\n        function calificar() {\n            let puntaje = 0;\n            // Mostrar feedback y contar correctas\n            for (let i = 1; i <= 7; i++) {\n                const name = 'q' + i;\n                const radios = document.getElementsByName(name);\n                let selectedValue = null;\n                for (let r of radios) {\n                    if (r.checked) {\n                        selectedValue = r.value;\n                        break;\n                    }\n                }\n                const fbDiv = document.getElementById('fb' + i);\n                if (selectedValue === respuestasCorrectas[name]) {\n                    puntaje++;\n                    fbDiv.innerHTML = feedbackText[name];\n                    fbDiv.style.color = 'green';\n                } else {\n                    fbDiv.innerHTML = feedbackText[name + '_w'] || feedbackText[name];\n                    fbDiv.style.color = 'red';\n                }\n            }\n            // Mostrar resultado final\n            const resultadoDiv = document.getElementById('resultadoFinal');\n            const puntajeSpan = document.getElementById('puntaje');\n            const mensaje = document.getElementById('mensajeFeedback');\n            puntajeSpan.textContent = puntaje;\n            if (puntaje === 7) {\n                mensaje.innerHTML = '🎉 ¡Excelente! Dominas los conceptos de expresión y comprensión oral. Sigue así.';\n            } else if (puntaje >= 5) {\n                mensaje.innerHTML = '👍 Muy bien. Revisa las retroalimentaciones para seguir mejorando.';\n            } else {\n                mensaje.innerHTML = '📚 Te sugerimos repasar los módulos de vocabulario y dicción. ¡Tú puedes!';\n            }\n            resultadoDiv.style.display = 'block';\n            // Desplazar suavemente al resultado\n            resultadoDiv.scrollIntoView({ behavior: 'smooth', block: 'nearest' });\n        }\n\n        function reiniciarExamen() {\n            // Limpiar selecciones y feedbacks\n            for (let i = 1; i <= 7; i++) {\n                const radios = document.getElementsByName('q' + i);\n                radios.forEach(r => r.checked = false);\n                const fbDiv = document.getElementById('fb' + i);\n                fbDiv.innerHTML = '';\n                fbDiv.style.color = '';\n            }\n            document.getElementById('resultadoFinal').style.display = 'none';\n            // Opcional: limpiar también el puntaje mostrado\n            window.scrollTo({ top: 0, behavior: 'smooth' });\n        }\n\n        document.getElementById('btnCalificar').addEventListener('click', calificar);\n        document.getElementById('reiniciar').addEventListener('click', reiniciarExamen);\n    </script>\n<!-- Botón de finalización (opcional) -->\n<div style=\"text-align: center; margin-top: 1.5rem;\"><button style=\"background: #2c5f8a; color: white; padding: 0.6rem 1.5rem; border-radius: 40px; border: none; cursor: pointer; font-weight: bold;\" onclick=\"alert('¡Has completado EXPRETODOS! Sigue practicando para mejorar tu expresión oral.')\">🏁 Finalizar y cerrar</button></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
